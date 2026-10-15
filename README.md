@@ -10,9 +10,9 @@
 
 ## ChatGPT / Codex 使用足迹
 
-![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)
+[![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)](https://chatgpt.com/u/95hbrhn9zd)
 
-来自官方个人资料的 Token 活动，统计截止日期见图。
+来自官方个人资料的 Token 活动，统计截止日期见图 · 点击查看 [ChatGPT 个人主页](https://chatgpt.com/u/95hbrhn9zd)
 
 ## 🛠️ 在做
 
