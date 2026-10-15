@@ -9,7 +9,7 @@
 - **🧩 [yuchen-skills](https://github.com/orange-gi/yuchen-skills)** — 公开的 个人 Agent Skills 合集（SKILL.md + schema）。
 
 
-## [ChatGPT 个人主页(当前主用)](https://chatgpt.com/u/95hbrhn9zd)
+## [Codex 个人主页(当前主用)](https://chatgpt.com/u/95hbrhn9zd)
 
 [![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)](https://chatgpt.com/u/95hbrhn9zd)
 
