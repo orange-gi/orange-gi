@@ -1,8 +1,6 @@
 name: Update Cursor heatmap
 
 on:
-  schedule:
-    - cron: '23 1 * * *' # 09:23 Asia/Shanghai
   workflow_dispatch:
 
 permissions:

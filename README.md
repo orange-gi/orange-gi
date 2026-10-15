@@ -6,7 +6,7 @@
 
 [![Cursor 年度使用热力图](assets/cursor-heatmap.svg)](https://cursor.com/@insterest)
 
-每天更新 · 点击查看 [Cursor 个人主页](https://cursor.com/@insterest)
+静态快照，已停止自动更新 · 点击查看 [Cursor 个人主页](https://cursor.com/@insterest)
 
 ## ChatGPT / Codex 使用足迹
 
