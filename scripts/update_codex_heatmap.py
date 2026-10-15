@@ -98,6 +98,8 @@ def normalize_usage(usage, year):
         key = bucket.get("startDate")
         if not isinstance(key, str) or date.fromisoformat(key).isoformat() != key:
             raise ValueError("Invalid official usage date")
+        if date.fromisoformat(key) > datetime.now(ZoneInfo("Asia/Shanghai")).date():
+            raise ValueError("Unexpected future usage date; keeping existing artifacts")
         if key in days:
             raise ValueError("Duplicate official usage date")
         days[key] = nonnegative_integer(bucket.get("tokens"), "daily tokens")
@@ -125,6 +127,22 @@ def normalize_usage(usage, year):
     }
 
 
+def validate_refresh(data, output_dir):
+    """Reject stale or truncated responses before replacing a published year."""
+    previous_path = output_dir / "codex-activity.json"
+    if not previous_path.exists():
+        return
+    previous = json.loads(previous_path.read_text(encoding="utf-8"))
+    if previous.get("year") != data["year"]:
+        return
+    if data["coverage"]["lastReportedDate"] < previous["coverage"]["lastReportedDate"]:
+        raise ValueError("Usage response is older than the published data; keeping existing artifacts")
+    old_days = {row["date"] for row in previous["days"]}
+    new_days = {row["date"] for row in data["days"]}
+    if not old_days.issubset(new_days):
+        raise ValueError("Usage response omits previously reported dates; keeping existing artifacts")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--usage-json", type=Path, help="Read an already captured summary and daily buckets")
@@ -133,6 +151,7 @@ def main():
     args = parser.parse_args()
     usage = json.loads(args.usage_json.read_text()) if args.usage_json else read_official_usage()
     data = normalize_usage(usage, args.year)
+    validate_refresh(data, args.output_dir)
     summary = data["summary"]
     last = data["coverage"]["lastReportedDate"]
     svg = render_activity_card(
