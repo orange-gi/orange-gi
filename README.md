@@ -8,6 +8,12 @@
 
 每天更新 · 点击查看 [Cursor 个人主页](https://cursor.com/@insterest)
 
+## ChatGPT / Codex 使用足迹
+
+![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)
+
+来自官方个人资料的 Token 活动，统计截止日期见图。
+
 ## 🛠️ 在做
 
 - **📱 [知与行](https://zhiyuxing.yuchengji.com)** — iOS App，陪你看见自己,也陪你走近愿望。已上架，研发博客记录在 [yuchengji.com/blog](https://yuchengji.com/blog/)。

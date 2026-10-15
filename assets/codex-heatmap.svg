@@ -1,0 +1,400 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-labelledby="title desc">
+<title id="title">Codex token activity · 2026</title>
+<desc id="desc">27.95B reported tokens · 72 active days. Latest reported date: 2026-10-14. Missing dates mean no reported activity; dates after that are not covered.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#1f2328}.muted{fill:#656d76}.frame{fill:#fff;stroke:#d1d9e0}.missing{fill:#ebedf0}.uncovered{fill:#fff;stroke:#d1d9e0;stroke-dasharray:2 2}.zero{fill:#ebedf0;stroke:#8c959f}
+.active{fill:#388bfd}
+@media(prefers-color-scheme:dark){text{fill:#e6edf3}.muted{fill:#9198a1}.frame{fill:#0d1117;stroke:#30363d}.missing{fill:#21262d}.uncovered{fill:#0d1117;stroke:#30363d}.zero{fill:#21262d;stroke:#9198a1}
+.active{fill:#58a6ff}}</style>
+<rect class="frame" x="0.5" y="0.5" width="859" height="259" rx="12"/>
+<text x="24" y="38" font-size="20" font-weight="600">Codex token activity</text>
+<text class="muted" x="832" y="37" text-anchor="end" font-size="13">2026</text>
+<text x="24" y="67" font-size="14">27.95B reported tokens · 72 active days</text>
+<text class="muted" x="67" y="100" font-size="11">Jan</text>
+<text class="muted" x="137" y="100" font-size="11">Feb</text>
+<text class="muted" x="193" y="100" font-size="11">Mar</text>
+<text class="muted" x="249" y="100" font-size="11">Apr</text>
+<text class="muted" x="305" y="100" font-size="11">May</text>
+<text class="muted" x="375" y="100" font-size="11">Jun</text>
+<text class="muted" x="431" y="100" font-size="11">Jul</text>
+<text class="muted" x="487" y="100" font-size="11">Aug</text>
+<text class="muted" x="557" y="100" font-size="11">Sep</text>
+<text class="muted" x="613" y="100" font-size="11">Oct</text>
+<text class="muted" x="683" y="100" font-size="11">Nov</text>
+<text class="muted" x="739" y="100" font-size="11">Dec</text>
+<text class="muted" x="24" y="135" font-size="10">Mon</text>
+<text class="muted" x="24" y="163" font-size="10">Wed</text>
+<text class="muted" x="24" y="191" font-size="10">Fri</text>
+<rect class="missing" x="67" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-01: no reported activity</title></rect>
+<rect class="missing" x="67" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-02: no reported activity</title></rect>
+<rect class="missing" x="67" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-03: no reported activity</title></rect>
+<rect class="missing" x="81" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-04: no reported activity</title></rect>
+<rect class="missing" x="81" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-05: no reported activity</title></rect>
+<rect class="missing" x="81" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-06: no reported activity</title></rect>
+<rect class="missing" x="81" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-07: no reported activity</title></rect>
+<rect class="missing" x="81" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-08: no reported activity</title></rect>
+<rect class="missing" x="81" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-09: no reported activity</title></rect>
+<rect class="missing" x="81" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-10: no reported activity</title></rect>
+<rect class="missing" x="95" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-11: no reported activity</title></rect>
+<rect class="missing" x="95" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-12: no reported activity</title></rect>
+<rect class="missing" x="95" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-13: no reported activity</title></rect>
+<rect class="missing" x="95" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-14: no reported activity</title></rect>
+<rect class="missing" x="95" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-15: no reported activity</title></rect>
+<rect class="missing" x="95" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-16: no reported activity</title></rect>
+<rect class="missing" x="95" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-17: no reported activity</title></rect>
+<rect class="missing" x="109" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-18: no reported activity</title></rect>
+<rect class="missing" x="109" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-19: no reported activity</title></rect>
+<rect class="missing" x="109" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-20: no reported activity</title></rect>
+<rect class="missing" x="109" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-21: no reported activity</title></rect>
+<rect class="missing" x="109" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-22: no reported activity</title></rect>
+<rect class="missing" x="109" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-23: no reported activity</title></rect>
+<rect class="missing" x="109" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-24: no reported activity</title></rect>
+<rect class="missing" x="123" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-25: no reported activity</title></rect>
+<rect class="missing" x="123" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-26: no reported activity</title></rect>
+<rect class="missing" x="123" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-27: no reported activity</title></rect>
+<rect class="missing" x="123" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-28: no reported activity</title></rect>
+<rect class="missing" x="123" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-29: no reported activity</title></rect>
+<rect class="missing" x="123" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-30: no reported activity</title></rect>
+<rect class="missing" x="123" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-01-31: no reported activity</title></rect>
+<rect class="missing" x="137" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-01: no reported activity</title></rect>
+<rect class="missing" x="137" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-02: no reported activity</title></rect>
+<rect class="missing" x="137" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-03: no reported activity</title></rect>
+<rect class="missing" x="137" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-04: no reported activity</title></rect>
+<rect class="missing" x="137" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-05: no reported activity</title></rect>
+<rect class="missing" x="137" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-06: no reported activity</title></rect>
+<rect class="missing" x="137" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-07: no reported activity</title></rect>
+<rect class="missing" x="151" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-08: no reported activity</title></rect>
+<rect class="missing" x="151" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-09: no reported activity</title></rect>
+<rect class="missing" x="151" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-10: no reported activity</title></rect>
+<rect class="missing" x="151" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-11: no reported activity</title></rect>
+<rect class="missing" x="151" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-12: no reported activity</title></rect>
+<rect class="missing" x="151" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-13: no reported activity</title></rect>
+<rect class="missing" x="151" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-14: no reported activity</title></rect>
+<rect class="missing" x="165" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-15: no reported activity</title></rect>
+<rect class="missing" x="165" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-16: no reported activity</title></rect>
+<rect class="missing" x="165" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-17: no reported activity</title></rect>
+<rect class="missing" x="165" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-18: no reported activity</title></rect>
+<rect class="missing" x="165" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-19: no reported activity</title></rect>
+<rect class="missing" x="165" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-20: no reported activity</title></rect>
+<rect class="missing" x="165" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-21: no reported activity</title></rect>
+<rect class="missing" x="179" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-22: no reported activity</title></rect>
+<rect class="missing" x="179" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-23: no reported activity</title></rect>
+<rect class="missing" x="179" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-24: no reported activity</title></rect>
+<rect class="missing" x="179" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-25: no reported activity</title></rect>
+<rect class="missing" x="179" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-26: no reported activity</title></rect>
+<rect class="missing" x="179" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-27: no reported activity</title></rect>
+<rect class="missing" x="179" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-02-28: no reported activity</title></rect>
+<rect class="missing" x="193" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-01: no reported activity</title></rect>
+<rect class="missing" x="193" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-02: no reported activity</title></rect>
+<rect class="missing" x="193" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-03: no reported activity</title></rect>
+<rect class="missing" x="193" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-04: no reported activity</title></rect>
+<rect class="missing" x="193" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-05: no reported activity</title></rect>
+<rect class="missing" x="193" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-06: no reported activity</title></rect>
+<rect class="missing" x="193" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-07: no reported activity</title></rect>
+<rect class="missing" x="207" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-08: no reported activity</title></rect>
+<rect class="missing" x="207" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-09: no reported activity</title></rect>
+<rect class="missing" x="207" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-10: no reported activity</title></rect>
+<rect class="missing" x="207" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-11: no reported activity</title></rect>
+<rect class="missing" x="207" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-12: no reported activity</title></rect>
+<rect class="missing" x="207" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-13: no reported activity</title></rect>
+<rect class="missing" x="207" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-14: no reported activity</title></rect>
+<rect class="missing" x="221" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-15: no reported activity</title></rect>
+<rect class="missing" x="221" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-16: no reported activity</title></rect>
+<rect class="missing" x="221" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-17: no reported activity</title></rect>
+<rect class="missing" x="221" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-18: no reported activity</title></rect>
+<rect class="missing" x="221" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-19: no reported activity</title></rect>
+<rect class="missing" x="221" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-20: no reported activity</title></rect>
+<rect class="missing" x="221" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-21: no reported activity</title></rect>
+<rect class="missing" x="235" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-22: no reported activity</title></rect>
+<rect class="missing" x="235" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-23: no reported activity</title></rect>
+<rect class="missing" x="235" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-24: no reported activity</title></rect>
+<rect class="missing" x="235" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-25: no reported activity</title></rect>
+<rect class="missing" x="235" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-26: no reported activity</title></rect>
+<rect class="missing" x="235" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-27: no reported activity</title></rect>
+<rect class="missing" x="235" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-28: no reported activity</title></rect>
+<rect class="missing" x="249" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-29: no reported activity</title></rect>
+<rect class="missing" x="249" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-30: no reported activity</title></rect>
+<rect class="missing" x="249" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-03-31: no reported activity</title></rect>
+<rect class="missing" x="249" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-01: no reported activity</title></rect>
+<rect class="missing" x="249" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-02: no reported activity</title></rect>
+<rect class="missing" x="249" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-03: no reported activity</title></rect>
+<rect class="missing" x="249" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-04: no reported activity</title></rect>
+<rect class="missing" x="263" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-05: no reported activity</title></rect>
+<rect class="missing" x="263" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-06: no reported activity</title></rect>
+<rect class="missing" x="263" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-07: no reported activity</title></rect>
+<rect class="missing" x="263" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-08: no reported activity</title></rect>
+<rect class="missing" x="263" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-09: no reported activity</title></rect>
+<rect class="missing" x="263" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-10: no reported activity</title></rect>
+<rect class="missing" x="263" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-11: no reported activity</title></rect>
+<rect class="missing" x="277" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-12: no reported activity</title></rect>
+<rect class="missing" x="277" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-13: no reported activity</title></rect>
+<rect class="missing" x="277" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-14: no reported activity</title></rect>
+<rect class="missing" x="277" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-15: no reported activity</title></rect>
+<rect class="missing" x="277" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-16: no reported activity</title></rect>
+<rect class="missing" x="277" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-17: no reported activity</title></rect>
+<rect class="missing" x="277" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-18: no reported activity</title></rect>
+<rect class="missing" x="291" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-19: no reported activity</title></rect>
+<rect class="missing" x="291" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-20: no reported activity</title></rect>
+<rect class="missing" x="291" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-21: no reported activity</title></rect>
+<rect class="missing" x="291" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-22: no reported activity</title></rect>
+<rect class="missing" x="291" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-23: no reported activity</title></rect>
+<rect class="missing" x="291" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-24: no reported activity</title></rect>
+<rect class="missing" x="291" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-25: no reported activity</title></rect>
+<rect class="missing" x="305" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-26: no reported activity</title></rect>
+<rect class="missing" x="305" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-27: no reported activity</title></rect>
+<rect class="missing" x="305" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-28: no reported activity</title></rect>
+<rect class="missing" x="305" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-29: no reported activity</title></rect>
+<rect class="missing" x="305" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-04-30: no reported activity</title></rect>
+<rect class="missing" x="305" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-01: no reported activity</title></rect>
+<rect class="missing" x="305" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-02: no reported activity</title></rect>
+<rect class="missing" x="319" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-03: no reported activity</title></rect>
+<rect class="missing" x="319" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-04: no reported activity</title></rect>
+<rect class="missing" x="319" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-05: no reported activity</title></rect>
+<rect class="missing" x="319" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-06: no reported activity</title></rect>
+<rect class="missing" x="319" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-07: no reported activity</title></rect>
+<rect class="missing" x="319" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-08: no reported activity</title></rect>
+<rect class="missing" x="319" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-09: no reported activity</title></rect>
+<rect class="missing" x="333" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-10: no reported activity</title></rect>
+<rect class="missing" x="333" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-11: no reported activity</title></rect>
+<rect class="missing" x="333" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-12: no reported activity</title></rect>
+<rect class="missing" x="333" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-13: no reported activity</title></rect>
+<rect class="active" x="333" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-05-14: 9,386,122 tokens</title></rect>
+<rect class="missing" x="333" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-15: no reported activity</title></rect>
+<rect class="missing" x="333" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-16: no reported activity</title></rect>
+<rect class="missing" x="347" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-17: no reported activity</title></rect>
+<rect class="missing" x="347" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-18: no reported activity</title></rect>
+<rect class="missing" x="347" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-19: no reported activity</title></rect>
+<rect class="missing" x="347" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-20: no reported activity</title></rect>
+<rect class="missing" x="347" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-21: no reported activity</title></rect>
+<rect class="missing" x="347" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-22: no reported activity</title></rect>
+<rect class="missing" x="347" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-23: no reported activity</title></rect>
+<rect class="missing" x="361" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-24: no reported activity</title></rect>
+<rect class="missing" x="361" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-25: no reported activity</title></rect>
+<rect class="missing" x="361" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-26: no reported activity</title></rect>
+<rect class="missing" x="361" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-27: no reported activity</title></rect>
+<rect class="missing" x="361" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-28: no reported activity</title></rect>
+<rect class="missing" x="361" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-29: no reported activity</title></rect>
+<rect class="missing" x="361" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-30: no reported activity</title></rect>
+<rect class="missing" x="375" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-05-31: no reported activity</title></rect>
+<rect class="missing" x="375" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-01: no reported activity</title></rect>
+<rect class="missing" x="375" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-02: no reported activity</title></rect>
+<rect class="missing" x="375" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-03: no reported activity</title></rect>
+<rect class="missing" x="375" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-04: no reported activity</title></rect>
+<rect class="missing" x="375" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-05: no reported activity</title></rect>
+<rect class="missing" x="375" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-06: no reported activity</title></rect>
+<rect class="missing" x="389" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-07: no reported activity</title></rect>
+<rect class="missing" x="389" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-08: no reported activity</title></rect>
+<rect class="missing" x="389" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-09: no reported activity</title></rect>
+<rect class="missing" x="389" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-10: no reported activity</title></rect>
+<rect class="missing" x="389" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-11: no reported activity</title></rect>
+<rect class="missing" x="389" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-12: no reported activity</title></rect>
+<rect class="missing" x="389" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-13: no reported activity</title></rect>
+<rect class="missing" x="403" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-14: no reported activity</title></rect>
+<rect class="missing" x="403" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-15: no reported activity</title></rect>
+<rect class="missing" x="403" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-16: no reported activity</title></rect>
+<rect class="active" x="403" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-06-17: 5,070,650 tokens</title></rect>
+<rect class="missing" x="403" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-18: no reported activity</title></rect>
+<rect class="missing" x="403" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-19: no reported activity</title></rect>
+<rect class="missing" x="403" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-20: no reported activity</title></rect>
+<rect class="missing" x="417" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-21: no reported activity</title></rect>
+<rect class="missing" x="417" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-22: no reported activity</title></rect>
+<rect class="missing" x="417" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-23: no reported activity</title></rect>
+<rect class="missing" x="417" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-24: no reported activity</title></rect>
+<rect class="missing" x="417" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-25: no reported activity</title></rect>
+<rect class="missing" x="417" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-26: no reported activity</title></rect>
+<rect class="missing" x="417" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-27: no reported activity</title></rect>
+<rect class="missing" x="431" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-28: no reported activity</title></rect>
+<rect class="missing" x="431" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-29: no reported activity</title></rect>
+<rect class="missing" x="431" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-06-30: no reported activity</title></rect>
+<rect class="missing" x="431" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-01: no reported activity</title></rect>
+<rect class="missing" x="431" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-02: no reported activity</title></rect>
+<rect class="missing" x="431" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-03: no reported activity</title></rect>
+<rect class="missing" x="431" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-04: no reported activity</title></rect>
+<rect class="missing" x="445" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-05: no reported activity</title></rect>
+<rect class="missing" x="445" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-06: no reported activity</title></rect>
+<rect class="missing" x="445" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-07: no reported activity</title></rect>
+<rect class="missing" x="445" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-08: no reported activity</title></rect>
+<rect class="missing" x="445" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-09: no reported activity</title></rect>
+<rect class="missing" x="445" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-10: no reported activity</title></rect>
+<rect class="missing" x="445" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-11: no reported activity</title></rect>
+<rect class="missing" x="459" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-12: no reported activity</title></rect>
+<rect class="missing" x="459" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-13: no reported activity</title></rect>
+<rect class="missing" x="459" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-14: no reported activity</title></rect>
+<rect class="missing" x="459" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-15: no reported activity</title></rect>
+<rect class="missing" x="459" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-16: no reported activity</title></rect>
+<rect class="active" x="459" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-07-17: 4,144,278 tokens</title></rect>
+<rect class="missing" x="459" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-18: no reported activity</title></rect>
+<rect class="missing" x="473" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-19: no reported activity</title></rect>
+<rect class="missing" x="473" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-20: no reported activity</title></rect>
+<rect class="missing" x="473" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-21: no reported activity</title></rect>
+<rect class="missing" x="473" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-22: no reported activity</title></rect>
+<rect class="missing" x="473" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-23: no reported activity</title></rect>
+<rect class="missing" x="473" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-24: no reported activity</title></rect>
+<rect class="missing" x="473" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-25: no reported activity</title></rect>
+<rect class="missing" x="487" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-26: no reported activity</title></rect>
+<rect class="missing" x="487" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-27: no reported activity</title></rect>
+<rect class="missing" x="487" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-28: no reported activity</title></rect>
+<rect class="missing" x="487" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-29: no reported activity</title></rect>
+<rect class="missing" x="487" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-30: no reported activity</title></rect>
+<rect class="missing" x="487" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-07-31: no reported activity</title></rect>
+<rect class="active" x="487" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-01: 22,044,757 tokens</title></rect>
+<rect class="active" x="501" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-02: 22,103,382 tokens</title></rect>
+<rect class="active" x="501" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-03: 14,788,370 tokens</title></rect>
+<rect class="active" x="501" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-04: 12,192,790 tokens</title></rect>
+<rect class="active" x="501" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-05: 64,524,406 tokens</title></rect>
+<rect class="active" x="501" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-06: 11,448,217 tokens</title></rect>
+<rect class="active" x="501" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-07: 2,396,283 tokens</title></rect>
+<rect class="active" x="501" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-08: 11,382,854 tokens</title></rect>
+<rect class="active" x="515" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-09: 32,533,461 tokens</title></rect>
+<rect class="active" x="515" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-10: 32,394,310 tokens</title></rect>
+<rect class="active" x="515" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-11: 31,582,330 tokens</title></rect>
+<rect class="active" x="515" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-12: 64,557,370 tokens</title></rect>
+<rect class="active" x="515" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-13: 109,498,324 tokens</title></rect>
+<rect class="active" x="515" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-14: 135,401,688 tokens</title></rect>
+<rect class="missing" x="515" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-08-15: no reported activity</title></rect>
+<rect class="active" x="529" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-16: 80,672,245 tokens</title></rect>
+<rect class="active" x="529" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-17: 27,079,910 tokens</title></rect>
+<rect class="active" x="529" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-18: 13,969,296 tokens</title></rect>
+<rect class="active" x="529" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-19: 10,792,229 tokens</title></rect>
+<rect class="active" x="529" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-20: 9,258,261 tokens</title></rect>
+<rect class="active" x="529" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-21: 84,325,595 tokens</title></rect>
+<rect class="active" x="529" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-22: 10,316,256 tokens</title></rect>
+<rect class="active" x="543" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-23: 166,217,142 tokens</title></rect>
+<rect class="active" x="543" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-24: 195,483,364 tokens</title></rect>
+<rect class="missing" x="543" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-08-25: no reported activity</title></rect>
+<rect class="active" x="543" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-26: 24,589,984 tokens</title></rect>
+<rect class="active" x="543" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-27: 58,225,363 tokens</title></rect>
+<rect class="active" x="543" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-28: 35,650,624 tokens</title></rect>
+<rect class="active" x="543" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-29: 92,356,058 tokens</title></rect>
+<rect class="active" x="557" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-30: 41,123,010 tokens</title></rect>
+<rect class="active" x="557" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-08-31: 46,749,536 tokens</title></rect>
+<rect class="active" x="557" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-01: 84,355,640 tokens</title></rect>
+<rect class="active" x="557" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-02: 160,399,129 tokens</title></rect>
+<rect class="active" x="557" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-03: 3,329,276 tokens</title></rect>
+<rect class="missing" x="557" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-09-04: no reported activity</title></rect>
+<rect class="active" x="557" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-05: 50,046,830 tokens</title></rect>
+<rect class="active" x="571" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-06: 16,900,435 tokens</title></rect>
+<rect class="active" x="571" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-07: 12,136,894 tokens</title></rect>
+<rect class="active" x="571" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-08: 21,082,560 tokens</title></rect>
+<rect class="active" x="571" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-09: 24,183,850 tokens</title></rect>
+<rect class="active" x="571" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-10: 7,531,925 tokens</title></rect>
+<rect class="active" x="571" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-11: 2,797,018 tokens</title></rect>
+<rect class="active" x="571" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-12: 199,112,183 tokens</title></rect>
+<rect class="active" x="585" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-13: 80,993,324 tokens</title></rect>
+<rect class="active" x="585" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-14: 290,984,515 tokens</title></rect>
+<rect class="active" x="585" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-15: 43,993,903 tokens</title></rect>
+<rect class="missing" x="585" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-09-16: no reported activity</title></rect>
+<rect class="active" x="585" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-17: 27,038,633 tokens</title></rect>
+<rect class="missing" x="585" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-09-18: no reported activity</title></rect>
+<rect class="missing" x="585" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-09-19: no reported activity</title></rect>
+<rect class="active" x="599" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-20: 15,295 tokens</title></rect>
+<rect class="active" x="599" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-21: 141,340,448 tokens</title></rect>
+<rect class="active" x="599" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-22: 95,346,936 tokens</title></rect>
+<rect class="active" x="599" y="154" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-23: 167,084,350 tokens</title></rect>
+<rect class="active" x="599" y="168" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-24: 99,310,331 tokens</title></rect>
+<rect class="active" x="599" y="182" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-25: 137,100,435 tokens</title></rect>
+<rect class="active" x="599" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-26: 62,092,179 tokens</title></rect>
+<rect class="active" x="613" y="112" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-27: 856,871 tokens</title></rect>
+<rect class="active" x="613" y="126" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-28: 260,544,779 tokens</title></rect>
+<rect class="active" x="613" y="140" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-09-29: 119,471,971 tokens</title></rect>
+<rect class="active" x="613" y="154" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-09-30: 1,214,442,884 tokens</title></rect>
+<rect class="active" x="613" y="168" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-01: 1,621,188,391 tokens</title></rect>
+<rect class="active" x="613" y="182" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-02: 1,109,986,310 tokens</title></rect>
+<rect class="active" x="613" y="196" width="10" height="10" rx="2" fill-opacity="0.3"><title>2026-10-03: 644,447,512 tokens</title></rect>
+<rect class="active" x="627" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-04: 2,798,684,245 tokens</title></rect>
+<rect class="active" x="627" y="126" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-05: 1,017,238,953 tokens</title></rect>
+<rect class="active" x="627" y="140" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-06: 1,403,549,355 tokens</title></rect>
+<rect class="active" x="627" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-07: 2,438,685,008 tokens</title></rect>
+<rect class="active" x="627" y="168" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-08: 1,550,855,573 tokens</title></rect>
+<rect class="active" x="627" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-09: 2,368,020,473 tokens</title></rect>
+<rect class="active" x="627" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-10: 2,422,919,284 tokens</title></rect>
+<rect class="active" x="641" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-11: 2,422,266,810 tokens</title></rect>
+<rect class="active" x="641" y="126" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-12: 1,332,574,309 tokens</title></rect>
+<rect class="active" x="641" y="140" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-13: 1,084,820,026 tokens</title></rect>
+<rect class="active" x="641" y="154" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-14: 933,922,112 tokens</title></rect>
+<rect class="uncovered" x="641" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-15: not covered</title></rect>
+<rect class="uncovered" x="641" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-16: not covered</title></rect>
+<rect class="uncovered" x="641" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-17: not covered</title></rect>
+<rect class="uncovered" x="655" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-18: not covered</title></rect>
+<rect class="uncovered" x="655" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-19: not covered</title></rect>
+<rect class="uncovered" x="655" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-20: not covered</title></rect>
+<rect class="uncovered" x="655" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-21: not covered</title></rect>
+<rect class="uncovered" x="655" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-22: not covered</title></rect>
+<rect class="uncovered" x="655" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-23: not covered</title></rect>
+<rect class="uncovered" x="655" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-24: not covered</title></rect>
+<rect class="uncovered" x="669" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-25: not covered</title></rect>
+<rect class="uncovered" x="669" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-26: not covered</title></rect>
+<rect class="uncovered" x="669" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-27: not covered</title></rect>
+<rect class="uncovered" x="669" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-28: not covered</title></rect>
+<rect class="uncovered" x="669" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-29: not covered</title></rect>
+<rect class="uncovered" x="669" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-30: not covered</title></rect>
+<rect class="uncovered" x="669" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-31: not covered</title></rect>
+<rect class="uncovered" x="683" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-01: not covered</title></rect>
+<rect class="uncovered" x="683" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-02: not covered</title></rect>
+<rect class="uncovered" x="683" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-03: not covered</title></rect>
+<rect class="uncovered" x="683" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-04: not covered</title></rect>
+<rect class="uncovered" x="683" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-05: not covered</title></rect>
+<rect class="uncovered" x="683" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-06: not covered</title></rect>
+<rect class="uncovered" x="683" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-07: not covered</title></rect>
+<rect class="uncovered" x="697" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-08: not covered</title></rect>
+<rect class="uncovered" x="697" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-09: not covered</title></rect>
+<rect class="uncovered" x="697" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-10: not covered</title></rect>
+<rect class="uncovered" x="697" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-11: not covered</title></rect>
+<rect class="uncovered" x="697" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-12: not covered</title></rect>
+<rect class="uncovered" x="697" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-13: not covered</title></rect>
+<rect class="uncovered" x="697" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-14: not covered</title></rect>
+<rect class="uncovered" x="711" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-15: not covered</title></rect>
+<rect class="uncovered" x="711" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-16: not covered</title></rect>
+<rect class="uncovered" x="711" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-17: not covered</title></rect>
+<rect class="uncovered" x="711" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-18: not covered</title></rect>
+<rect class="uncovered" x="711" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-19: not covered</title></rect>
+<rect class="uncovered" x="711" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-20: not covered</title></rect>
+<rect class="uncovered" x="711" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-21: not covered</title></rect>
+<rect class="uncovered" x="725" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-22: not covered</title></rect>
+<rect class="uncovered" x="725" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-23: not covered</title></rect>
+<rect class="uncovered" x="725" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-24: not covered</title></rect>
+<rect class="uncovered" x="725" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-25: not covered</title></rect>
+<rect class="uncovered" x="725" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-26: not covered</title></rect>
+<rect class="uncovered" x="725" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-27: not covered</title></rect>
+<rect class="uncovered" x="725" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-28: not covered</title></rect>
+<rect class="uncovered" x="739" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-29: not covered</title></rect>
+<rect class="uncovered" x="739" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-11-30: not covered</title></rect>
+<rect class="uncovered" x="739" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-01: not covered</title></rect>
+<rect class="uncovered" x="739" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-02: not covered</title></rect>
+<rect class="uncovered" x="739" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-03: not covered</title></rect>
+<rect class="uncovered" x="739" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-04: not covered</title></rect>
+<rect class="uncovered" x="739" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-05: not covered</title></rect>
+<rect class="uncovered" x="753" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-06: not covered</title></rect>
+<rect class="uncovered" x="753" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-07: not covered</title></rect>
+<rect class="uncovered" x="753" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-08: not covered</title></rect>
+<rect class="uncovered" x="753" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-09: not covered</title></rect>
+<rect class="uncovered" x="753" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-10: not covered</title></rect>
+<rect class="uncovered" x="753" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-11: not covered</title></rect>
+<rect class="uncovered" x="753" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-12: not covered</title></rect>
+<rect class="uncovered" x="767" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-13: not covered</title></rect>
+<rect class="uncovered" x="767" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-14: not covered</title></rect>
+<rect class="uncovered" x="767" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-15: not covered</title></rect>
+<rect class="uncovered" x="767" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-16: not covered</title></rect>
+<rect class="uncovered" x="767" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-17: not covered</title></rect>
+<rect class="uncovered" x="767" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-18: not covered</title></rect>
+<rect class="uncovered" x="767" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-19: not covered</title></rect>
+<rect class="uncovered" x="781" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-20: not covered</title></rect>
+<rect class="uncovered" x="781" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-21: not covered</title></rect>
+<rect class="uncovered" x="781" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-22: not covered</title></rect>
+<rect class="uncovered" x="781" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-23: not covered</title></rect>
+<rect class="uncovered" x="781" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-24: not covered</title></rect>
+<rect class="uncovered" x="781" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-25: not covered</title></rect>
+<rect class="uncovered" x="781" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-26: not covered</title></rect>
+<rect class="uncovered" x="795" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-27: not covered</title></rect>
+<rect class="uncovered" x="795" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-28: not covered</title></rect>
+<rect class="uncovered" x="795" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-29: not covered</title></rect>
+<rect class="uncovered" x="795" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-30: not covered</title></rect>
+<rect class="uncovered" x="795" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-31: not covered</title></rect>
+<text class="muted" x="24" y="224" font-size="11">Official account activity · Latest reported date 2026-10-14 · Dates as returned</text>
+<text class="muted" x="24" y="243" font-size="10">Blank: no reported activity · Dashed: not covered · Outlined: reported zero</text>
+<text class="muted" x="688" y="243" font-size="10">Less</text>
+<rect class="active" x="724" y="234" width="10" height="10" rx="2" fill-opacity="0.3"/>
+<rect class="active" x="738" y="234" width="10" height="10" rx="2" fill-opacity="0.5"/>
+<rect class="active" x="752" y="234" width="10" height="10" rx="2" fill-opacity="0.75"/>
+<rect class="active" x="766" y="234" width="10" height="10" rx="2" fill-opacity="1"/>
+<text class="muted" x="786" y="243" font-size="10">More</text>
+</svg>
