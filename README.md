@@ -9,15 +9,16 @@
 - **🧩 [yuchen-skills](https://github.com/orange-gi/yuchen-skills)** — 公开的 个人 Agent Skills 合集（SKILL.md + schema）。
 
 
-## [Cursor 个人主页](https://cursor.com/@insterest)
+## [ChatGPT 个人主页(当前主用)](https://chatgpt.com/u/95hbrhn9zd)
+
+[![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)](https://chatgpt.com/u/95hbrhn9zd)
+
+
+
+## [Cursor 个人主页(很少用了,期待重逢的一天)](https://cursor.com/@insterest)
 
 [![Cursor 年度使用热力图](assets/cursor-heatmap.svg)](https://cursor.com/@insterest)
 
-
-
-## [ChatGPT 个人主页](https://chatgpt.com/u/95hbrhn9zd)
-
-[![Codex 官方 Token 活动热力图](assets/codex-heatmap.svg)](https://chatgpt.com/u/95hbrhn9zd)
 
 
 
