@@ -1,0 +1,1453 @@
+{
+  "source": "https://cursor.com/@insterest",
+  "year": 2026,
+  "asOf": "2026-10-15",
+  "note": "Approximate totals summed from Cursor's rounded daily tooltip values; not billing data.",
+  "summary": {
+    "tokensApprox": 13374042100,
+    "activeDays": 253,
+    "longestStreakDays": 60
+  },
+  "days": [
+    {
+      "date": "2026-01-01",
+      "tokensApprox": 335900,
+      "label": "335.9K tokens on Jan 1, 2026"
+    },
+    {
+      "date": "2026-01-02",
+      "tokensApprox": 411500,
+      "label": "411.5K tokens on Jan 2, 2026"
+    },
+    {
+      "date": "2026-01-03",
+      "tokensApprox": 8600000,
+      "label": "8.6M tokens on Jan 3, 2026"
+    },
+    {
+      "date": "2026-01-04",
+      "tokensApprox": 13600000,
+      "label": "13.6M tokens on Jan 4, 2026"
+    },
+    {
+      "date": "2026-01-05",
+      "tokensApprox": 2300000,
+      "label": "2.3M tokens on Jan 5, 2026"
+    },
+    {
+      "date": "2026-01-06",
+      "tokensApprox": 1200000,
+      "label": "1.2M tokens on Jan 6, 2026"
+    },
+    {
+      "date": "2026-01-07",
+      "tokensApprox": 21500000,
+      "label": "21.5M tokens on Jan 7, 2026"
+    },
+    {
+      "date": "2026-01-08",
+      "tokensApprox": 13200000,
+      "label": "13.2M tokens on Jan 8, 2026"
+    },
+    {
+      "date": "2026-01-09",
+      "tokensApprox": 34700000,
+      "label": "34.7M tokens on Jan 9, 2026"
+    },
+    {
+      "date": "2026-01-10",
+      "tokensApprox": 7800000,
+      "label": "7.8M tokens on Jan 10, 2026"
+    },
+    {
+      "date": "2026-01-11",
+      "tokensApprox": 4700000,
+      "label": "4.7M tokens on Jan 11, 2026"
+    },
+    {
+      "date": "2026-01-12",
+      "tokensApprox": 2900000,
+      "label": "2.9M tokens on Jan 12, 2026"
+    },
+    {
+      "date": "2026-01-13",
+      "tokensApprox": 0,
+      "label": "Jan 13, 2026"
+    },
+    {
+      "date": "2026-01-14",
+      "tokensApprox": 0,
+      "label": "Jan 14, 2026"
+    },
+    {
+      "date": "2026-01-15",
+      "tokensApprox": 0,
+      "label": "Jan 15, 2026"
+    },
+    {
+      "date": "2026-01-16",
+      "tokensApprox": 0,
+      "label": "Jan 16, 2026"
+    },
+    {
+      "date": "2026-01-17",
+      "tokensApprox": 0,
+      "label": "Jan 17, 2026"
+    },
+    {
+      "date": "2026-01-18",
+      "tokensApprox": 0,
+      "label": "Jan 18, 2026"
+    },
+    {
+      "date": "2026-01-19",
+      "tokensApprox": 0,
+      "label": "Jan 19, 2026"
+    },
+    {
+      "date": "2026-01-20",
+      "tokensApprox": 0,
+      "label": "Jan 20, 2026"
+    },
+    {
+      "date": "2026-01-21",
+      "tokensApprox": 0,
+      "label": "Jan 21, 2026"
+    },
+    {
+      "date": "2026-01-22",
+      "tokensApprox": 31600000,
+      "label": "31.6M tokens on Jan 22, 2026"
+    },
+    {
+      "date": "2026-01-23",
+      "tokensApprox": 80400000,
+      "label": "80.4M tokens on Jan 23, 2026"
+    },
+    {
+      "date": "2026-01-24",
+      "tokensApprox": 23900000,
+      "label": "23.9M tokens on Jan 24, 2026"
+    },
+    {
+      "date": "2026-01-25",
+      "tokensApprox": 894100,
+      "label": "894.1K tokens on Jan 25, 2026"
+    },
+    {
+      "date": "2026-01-26",
+      "tokensApprox": 19500000,
+      "label": "19.5M tokens on Jan 26, 2026"
+    },
+    {
+      "date": "2026-01-27",
+      "tokensApprox": 47900000,
+      "label": "47.9M tokens on Jan 27, 2026"
+    },
+    {
+      "date": "2026-01-28",
+      "tokensApprox": 11400000,
+      "label": "11.4M tokens on Jan 28, 2026"
+    },
+    {
+      "date": "2026-01-29",
+      "tokensApprox": 71100000,
+      "label": "71.1M tokens on Jan 29, 2026"
+    },
+    {
+      "date": "2026-01-30",
+      "tokensApprox": 2500000,
+      "label": "2.5M tokens on Jan 30, 2026"
+    },
+    {
+      "date": "2026-01-31",
+      "tokensApprox": 16200000,
+      "label": "16.2M tokens on Jan 31, 2026"
+    },
+    {
+      "date": "2026-02-01",
+      "tokensApprox": 31100000,
+      "label": "31.1M tokens on Feb 1, 2026"
+    },
+    {
+      "date": "2026-02-02",
+      "tokensApprox": 3000000,
+      "label": "3M tokens on Feb 2, 2026"
+    },
+    {
+      "date": "2026-02-03",
+      "tokensApprox": 3900000,
+      "label": "3.9M tokens on Feb 3, 2026"
+    },
+    {
+      "date": "2026-02-04",
+      "tokensApprox": 2100000,
+      "label": "2.1M tokens on Feb 4, 2026"
+    },
+    {
+      "date": "2026-02-05",
+      "tokensApprox": 13400000,
+      "label": "13.4M tokens on Feb 5, 2026"
+    },
+    {
+      "date": "2026-02-06",
+      "tokensApprox": 0,
+      "label": "Feb 6, 2026"
+    },
+    {
+      "date": "2026-02-07",
+      "tokensApprox": 1300000,
+      "label": "1.3M tokens on Feb 7, 2026"
+    },
+    {
+      "date": "2026-02-08",
+      "tokensApprox": 0,
+      "label": "Feb 8, 2026"
+    },
+    {
+      "date": "2026-02-09",
+      "tokensApprox": 0,
+      "label": "Feb 9, 2026"
+    },
+    {
+      "date": "2026-02-10",
+      "tokensApprox": 11900000,
+      "label": "11.9M tokens on Feb 10, 2026"
+    },
+    {
+      "date": "2026-02-11",
+      "tokensApprox": 2100000,
+      "label": "2.1M tokens on Feb 11, 2026"
+    },
+    {
+      "date": "2026-02-12",
+      "tokensApprox": 4800000,
+      "label": "4.8M tokens on Feb 12, 2026"
+    },
+    {
+      "date": "2026-02-13",
+      "tokensApprox": 1400000,
+      "label": "1.4M tokens on Feb 13, 2026"
+    },
+    {
+      "date": "2026-02-14",
+      "tokensApprox": 24100000,
+      "label": "24.1M tokens on Feb 14, 2026"
+    },
+    {
+      "date": "2026-02-15",
+      "tokensApprox": 13200000,
+      "label": "13.2M tokens on Feb 15, 2026"
+    },
+    {
+      "date": "2026-02-16",
+      "tokensApprox": 2100000,
+      "label": "2.1M tokens on Feb 16, 2026"
+    },
+    {
+      "date": "2026-02-17",
+      "tokensApprox": 5400000,
+      "label": "5.4M tokens on Feb 17, 2026"
+    },
+    {
+      "date": "2026-02-18",
+      "tokensApprox": 25900000,
+      "label": "25.9M tokens on Feb 18, 2026"
+    },
+    {
+      "date": "2026-02-19",
+      "tokensApprox": 99200000,
+      "label": "99.2M tokens on Feb 19, 2026"
+    },
+    {
+      "date": "2026-02-20",
+      "tokensApprox": 87300000,
+      "label": "87.3M tokens on Feb 20, 2026"
+    },
+    {
+      "date": "2026-02-21",
+      "tokensApprox": 73500000,
+      "label": "73.5M tokens on Feb 21, 2026"
+    },
+    {
+      "date": "2026-02-22",
+      "tokensApprox": 0,
+      "label": "Feb 22, 2026"
+    },
+    {
+      "date": "2026-02-23",
+      "tokensApprox": 19600000,
+      "label": "19.6M tokens on Feb 23, 2026"
+    },
+    {
+      "date": "2026-02-24",
+      "tokensApprox": 30000000,
+      "label": "30M tokens on Feb 24, 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "tokensApprox": 31600000,
+      "label": "31.6M tokens on Feb 25, 2026"
+    },
+    {
+      "date": "2026-02-26",
+      "tokensApprox": 334800000,
+      "label": "334.8M tokens on Feb 26, 2026"
+    },
+    {
+      "date": "2026-02-27",
+      "tokensApprox": 92300000,
+      "label": "92.3M tokens on Feb 27, 2026"
+    },
+    {
+      "date": "2026-02-28",
+      "tokensApprox": 41300000,
+      "label": "41.3M tokens on Feb 28, 2026"
+    },
+    {
+      "date": "2026-03-01",
+      "tokensApprox": 4400000,
+      "label": "4.4M tokens on Mar 1, 2026"
+    },
+    {
+      "date": "2026-03-02",
+      "tokensApprox": 55300000,
+      "label": "55.3M tokens on Mar 2, 2026"
+    },
+    {
+      "date": "2026-03-03",
+      "tokensApprox": 17300000,
+      "label": "17.3M tokens on Mar 3, 2026"
+    },
+    {
+      "date": "2026-03-04",
+      "tokensApprox": 9100000,
+      "label": "9.1M tokens on Mar 4, 2026"
+    },
+    {
+      "date": "2026-03-05",
+      "tokensApprox": 20900000,
+      "label": "20.9M tokens on Mar 5, 2026"
+    },
+    {
+      "date": "2026-03-06",
+      "tokensApprox": 61300000,
+      "label": "61.3M tokens on Mar 6, 2026"
+    },
+    {
+      "date": "2026-03-07",
+      "tokensApprox": 79000000,
+      "label": "79M tokens on Mar 7, 2026"
+    },
+    {
+      "date": "2026-03-08",
+      "tokensApprox": 41900000,
+      "label": "41.9M tokens on Mar 8, 2026"
+    },
+    {
+      "date": "2026-03-09",
+      "tokensApprox": 180500000,
+      "label": "180.5M tokens on Mar 9, 2026"
+    },
+    {
+      "date": "2026-03-10",
+      "tokensApprox": 106600000,
+      "label": "106.6M tokens on Mar 10, 2026"
+    },
+    {
+      "date": "2026-03-11",
+      "tokensApprox": 83100000,
+      "label": "83.1M tokens on Mar 11, 2026"
+    },
+    {
+      "date": "2026-03-12",
+      "tokensApprox": 43900000,
+      "label": "43.9M tokens on Mar 12, 2026"
+    },
+    {
+      "date": "2026-03-13",
+      "tokensApprox": 47700000,
+      "label": "47.7M tokens on Mar 13, 2026"
+    },
+    {
+      "date": "2026-03-14",
+      "tokensApprox": 6000000,
+      "label": "6M tokens on Mar 14, 2026"
+    },
+    {
+      "date": "2026-03-15",
+      "tokensApprox": 75600,
+      "label": "75.6K tokens on Mar 15, 2026"
+    },
+    {
+      "date": "2026-03-16",
+      "tokensApprox": 53400000,
+      "label": "53.4M tokens on Mar 16, 2026"
+    },
+    {
+      "date": "2026-03-17",
+      "tokensApprox": 26800000,
+      "label": "26.8M tokens on Mar 17, 2026"
+    },
+    {
+      "date": "2026-03-18",
+      "tokensApprox": 47400000,
+      "label": "47.4M tokens on Mar 18, 2026"
+    },
+    {
+      "date": "2026-03-19",
+      "tokensApprox": 64600000,
+      "label": "64.6M tokens on Mar 19, 2026"
+    },
+    {
+      "date": "2026-03-20",
+      "tokensApprox": 45400000,
+      "label": "45.4M tokens on Mar 20, 2026"
+    },
+    {
+      "date": "2026-03-21",
+      "tokensApprox": 154100000,
+      "label": "154.1M tokens on Mar 21, 2026"
+    },
+    {
+      "date": "2026-03-22",
+      "tokensApprox": 71700000,
+      "label": "71.7M tokens on Mar 22, 2026"
+    },
+    {
+      "date": "2026-03-23",
+      "tokensApprox": 159800000,
+      "label": "159.8M tokens on Mar 23, 2026"
+    },
+    {
+      "date": "2026-03-24",
+      "tokensApprox": 46200000,
+      "label": "46.2M tokens on Mar 24, 2026"
+    },
+    {
+      "date": "2026-03-25",
+      "tokensApprox": 41100000,
+      "label": "41.1M tokens on Mar 25, 2026"
+    },
+    {
+      "date": "2026-03-26",
+      "tokensApprox": 61100000,
+      "label": "61.1M tokens on Mar 26, 2026"
+    },
+    {
+      "date": "2026-03-27",
+      "tokensApprox": 87000000,
+      "label": "87M tokens on Mar 27, 2026"
+    },
+    {
+      "date": "2026-03-28",
+      "tokensApprox": 102700000,
+      "label": "102.7M tokens on Mar 28, 2026"
+    },
+    {
+      "date": "2026-03-29",
+      "tokensApprox": 64000000,
+      "label": "64M tokens on Mar 29, 2026"
+    },
+    {
+      "date": "2026-03-30",
+      "tokensApprox": 89900000,
+      "label": "89.9M tokens on Mar 30, 2026"
+    },
+    {
+      "date": "2026-03-31",
+      "tokensApprox": 73500000,
+      "label": "73.5M tokens on Mar 31, 2026"
+    },
+    {
+      "date": "2026-04-01",
+      "tokensApprox": 93900000,
+      "label": "93.9M tokens on Apr 1, 2026"
+    },
+    {
+      "date": "2026-04-02",
+      "tokensApprox": 22800000,
+      "label": "22.8M tokens on Apr 2, 2026"
+    },
+    {
+      "date": "2026-04-03",
+      "tokensApprox": 58100000,
+      "label": "58.1M tokens on Apr 3, 2026"
+    },
+    {
+      "date": "2026-04-04",
+      "tokensApprox": 28700000,
+      "label": "28.7M tokens on Apr 4, 2026"
+    },
+    {
+      "date": "2026-04-05",
+      "tokensApprox": 54800000,
+      "label": "54.8M tokens on Apr 5, 2026"
+    },
+    {
+      "date": "2026-04-06",
+      "tokensApprox": 71200000,
+      "label": "71.2M tokens on Apr 6, 2026"
+    },
+    {
+      "date": "2026-04-07",
+      "tokensApprox": 17500000,
+      "label": "17.5M tokens on Apr 7, 2026"
+    },
+    {
+      "date": "2026-04-08",
+      "tokensApprox": 15000000,
+      "label": "15M tokens on Apr 8, 2026"
+    },
+    {
+      "date": "2026-04-09",
+      "tokensApprox": 97800000,
+      "label": "97.8M tokens on Apr 9, 2026"
+    },
+    {
+      "date": "2026-04-10",
+      "tokensApprox": 47600000,
+      "label": "47.6M tokens on Apr 10, 2026"
+    },
+    {
+      "date": "2026-04-11",
+      "tokensApprox": 66700000,
+      "label": "66.7M tokens on Apr 11, 2026"
+    },
+    {
+      "date": "2026-04-12",
+      "tokensApprox": 60200000,
+      "label": "60.2M tokens on Apr 12, 2026"
+    },
+    {
+      "date": "2026-04-13",
+      "tokensApprox": 113200000,
+      "label": "113.2M tokens on Apr 13, 2026"
+    },
+    {
+      "date": "2026-04-14",
+      "tokensApprox": 106500000,
+      "label": "106.5M tokens on Apr 14, 2026"
+    },
+    {
+      "date": "2026-04-15",
+      "tokensApprox": 98600000,
+      "label": "98.6M tokens on Apr 15, 2026"
+    },
+    {
+      "date": "2026-04-16",
+      "tokensApprox": 197800000,
+      "label": "197.8M tokens on Apr 16, 2026"
+    },
+    {
+      "date": "2026-04-17",
+      "tokensApprox": 131400000,
+      "label": "131.4M tokens on Apr 17, 2026"
+    },
+    {
+      "date": "2026-04-18",
+      "tokensApprox": 124500000,
+      "label": "124.5M tokens on Apr 18, 2026"
+    },
+    {
+      "date": "2026-04-19",
+      "tokensApprox": 71500000,
+      "label": "71.5M tokens on Apr 19, 2026"
+    },
+    {
+      "date": "2026-04-20",
+      "tokensApprox": 166600000,
+      "label": "166.6M tokens on Apr 20, 2026"
+    },
+    {
+      "date": "2026-04-21",
+      "tokensApprox": 237300000,
+      "label": "237.3M tokens on Apr 21, 2026"
+    },
+    {
+      "date": "2026-04-22",
+      "tokensApprox": 68600000,
+      "label": "68.6M tokens on Apr 22, 2026"
+    },
+    {
+      "date": "2026-04-23",
+      "tokensApprox": 134900000,
+      "label": "134.9M tokens on Apr 23, 2026"
+    },
+    {
+      "date": "2026-04-24",
+      "tokensApprox": 0,
+      "label": "Apr 24, 2026"
+    },
+    {
+      "date": "2026-04-25",
+      "tokensApprox": 32000000,
+      "label": "32M tokens on Apr 25, 2026"
+    },
+    {
+      "date": "2026-04-26",
+      "tokensApprox": 41700000,
+      "label": "41.7M tokens on Apr 26, 2026"
+    },
+    {
+      "date": "2026-04-27",
+      "tokensApprox": 149900000,
+      "label": "149.9M tokens on Apr 27, 2026"
+    },
+    {
+      "date": "2026-04-28",
+      "tokensApprox": 71800000,
+      "label": "71.8M tokens on Apr 28, 2026"
+    },
+    {
+      "date": "2026-04-29",
+      "tokensApprox": 236200,
+      "label": "236.2K tokens on Apr 29, 2026"
+    },
+    {
+      "date": "2026-04-30",
+      "tokensApprox": 8300000,
+      "label": "8.3M tokens on Apr 30, 2026"
+    },
+    {
+      "date": "2026-05-01",
+      "tokensApprox": 6400000,
+      "label": "6.4M tokens on May 1, 2026"
+    },
+    {
+      "date": "2026-05-02",
+      "tokensApprox": 42400000,
+      "label": "42.4M tokens on May 2, 2026"
+    },
+    {
+      "date": "2026-05-03",
+      "tokensApprox": 5300000,
+      "label": "5.3M tokens on May 3, 2026"
+    },
+    {
+      "date": "2026-05-04",
+      "tokensApprox": 23900000,
+      "label": "23.9M tokens on May 4, 2026"
+    },
+    {
+      "date": "2026-05-05",
+      "tokensApprox": 108600000,
+      "label": "108.6M tokens on May 5, 2026"
+    },
+    {
+      "date": "2026-05-06",
+      "tokensApprox": 32600000,
+      "label": "32.6M tokens on May 6, 2026"
+    },
+    {
+      "date": "2026-05-07",
+      "tokensApprox": 19200000,
+      "label": "19.2M tokens on May 7, 2026"
+    },
+    {
+      "date": "2026-05-08",
+      "tokensApprox": 72200000,
+      "label": "72.2M tokens on May 8, 2026"
+    },
+    {
+      "date": "2026-05-09",
+      "tokensApprox": 13500000,
+      "label": "13.5M tokens on May 9, 2026"
+    },
+    {
+      "date": "2026-05-10",
+      "tokensApprox": 61300000,
+      "label": "61.3M tokens on May 10, 2026"
+    },
+    {
+      "date": "2026-05-11",
+      "tokensApprox": 32300000,
+      "label": "32.3M tokens on May 11, 2026"
+    },
+    {
+      "date": "2026-05-12",
+      "tokensApprox": 28200000,
+      "label": "28.2M tokens on May 12, 2026"
+    },
+    {
+      "date": "2026-05-13",
+      "tokensApprox": 15300000,
+      "label": "15.3M tokens on May 13, 2026"
+    },
+    {
+      "date": "2026-05-14",
+      "tokensApprox": 10500000,
+      "label": "10.5M tokens on May 14, 2026"
+    },
+    {
+      "date": "2026-05-15",
+      "tokensApprox": 64900000,
+      "label": "64.9M tokens on May 15, 2026"
+    },
+    {
+      "date": "2026-05-16",
+      "tokensApprox": 68800000,
+      "label": "68.8M tokens on May 16, 2026"
+    },
+    {
+      "date": "2026-05-17",
+      "tokensApprox": 63700000,
+      "label": "63.7M tokens on May 17, 2026"
+    },
+    {
+      "date": "2026-05-18",
+      "tokensApprox": 19000000,
+      "label": "19M tokens on May 18, 2026"
+    },
+    {
+      "date": "2026-05-19",
+      "tokensApprox": 15000000,
+      "label": "15M tokens on May 19, 2026"
+    },
+    {
+      "date": "2026-05-20",
+      "tokensApprox": 3400000,
+      "label": "3.4M tokens on May 20, 2026"
+    },
+    {
+      "date": "2026-05-21",
+      "tokensApprox": 10900000,
+      "label": "10.9M tokens on May 21, 2026"
+    },
+    {
+      "date": "2026-05-22",
+      "tokensApprox": 105400000,
+      "label": "105.4M tokens on May 22, 2026"
+    },
+    {
+      "date": "2026-05-23",
+      "tokensApprox": 49400000,
+      "label": "49.4M tokens on May 23, 2026"
+    },
+    {
+      "date": "2026-05-24",
+      "tokensApprox": 54300000,
+      "label": "54.3M tokens on May 24, 2026"
+    },
+    {
+      "date": "2026-05-25",
+      "tokensApprox": 89600000,
+      "label": "89.6M tokens on May 25, 2026"
+    },
+    {
+      "date": "2026-05-26",
+      "tokensApprox": 59700000,
+      "label": "59.7M tokens on May 26, 2026"
+    },
+    {
+      "date": "2026-05-27",
+      "tokensApprox": 12400000,
+      "label": "12.4M tokens on May 27, 2026"
+    },
+    {
+      "date": "2026-05-28",
+      "tokensApprox": 23300000,
+      "label": "23.3M tokens on May 28, 2026"
+    },
+    {
+      "date": "2026-05-29",
+      "tokensApprox": 48500000,
+      "label": "48.5M tokens on May 29, 2026"
+    },
+    {
+      "date": "2026-05-30",
+      "tokensApprox": 8600000,
+      "label": "8.6M tokens on May 30, 2026"
+    },
+    {
+      "date": "2026-05-31",
+      "tokensApprox": 42400000,
+      "label": "42.4M tokens on May 31, 2026"
+    },
+    {
+      "date": "2026-06-01",
+      "tokensApprox": 20000000,
+      "label": "20M tokens on Jun 1, 2026"
+    },
+    {
+      "date": "2026-06-02",
+      "tokensApprox": 14500000,
+      "label": "14.5M tokens on Jun 2, 2026"
+    },
+    {
+      "date": "2026-06-03",
+      "tokensApprox": 23800000,
+      "label": "23.8M tokens on Jun 3, 2026"
+    },
+    {
+      "date": "2026-06-04",
+      "tokensApprox": 19000000,
+      "label": "19M tokens on Jun 4, 2026"
+    },
+    {
+      "date": "2026-06-05",
+      "tokensApprox": 152700000,
+      "label": "152.7M tokens on Jun 5, 2026"
+    },
+    {
+      "date": "2026-06-06",
+      "tokensApprox": 109500000,
+      "label": "109.5M tokens on Jun 6, 2026"
+    },
+    {
+      "date": "2026-06-07",
+      "tokensApprox": 19600000,
+      "label": "19.6M tokens on Jun 7, 2026"
+    },
+    {
+      "date": "2026-06-08",
+      "tokensApprox": 119900000,
+      "label": "119.9M tokens on Jun 8, 2026"
+    },
+    {
+      "date": "2026-06-09",
+      "tokensApprox": 9400000,
+      "label": "9.4M tokens on Jun 9, 2026"
+    },
+    {
+      "date": "2026-06-10",
+      "tokensApprox": 23000000,
+      "label": "23M tokens on Jun 10, 2026"
+    },
+    {
+      "date": "2026-06-11",
+      "tokensApprox": 77100000,
+      "label": "77.1M tokens on Jun 11, 2026"
+    },
+    {
+      "date": "2026-06-12",
+      "tokensApprox": 68100000,
+      "label": "68.1M tokens on Jun 12, 2026"
+    },
+    {
+      "date": "2026-06-13",
+      "tokensApprox": 37100000,
+      "label": "37.1M tokens on Jun 13, 2026"
+    },
+    {
+      "date": "2026-06-14",
+      "tokensApprox": 0,
+      "label": "Jun 14, 2026"
+    },
+    {
+      "date": "2026-06-15",
+      "tokensApprox": 63300000,
+      "label": "63.3M tokens on Jun 15, 2026"
+    },
+    {
+      "date": "2026-06-16",
+      "tokensApprox": 33700000,
+      "label": "33.7M tokens on Jun 16, 2026"
+    },
+    {
+      "date": "2026-06-17",
+      "tokensApprox": 10400000,
+      "label": "10.4M tokens on Jun 17, 2026"
+    },
+    {
+      "date": "2026-06-18",
+      "tokensApprox": 105300000,
+      "label": "105.3M tokens on Jun 18, 2026"
+    },
+    {
+      "date": "2026-06-19",
+      "tokensApprox": 2600000,
+      "label": "2.6M tokens on Jun 19, 2026"
+    },
+    {
+      "date": "2026-06-20",
+      "tokensApprox": 21400000,
+      "label": "21.4M tokens on Jun 20, 2026"
+    },
+    {
+      "date": "2026-06-21",
+      "tokensApprox": 142400000,
+      "label": "142.4M tokens on Jun 21, 2026"
+    },
+    {
+      "date": "2026-06-22",
+      "tokensApprox": 80000000,
+      "label": "80M tokens on Jun 22, 2026"
+    },
+    {
+      "date": "2026-06-23",
+      "tokensApprox": 108600000,
+      "label": "108.6M tokens on Jun 23, 2026"
+    },
+    {
+      "date": "2026-06-24",
+      "tokensApprox": 139400000,
+      "label": "139.4M tokens on Jun 24, 2026"
+    },
+    {
+      "date": "2026-06-25",
+      "tokensApprox": 158900000,
+      "label": "158.9M tokens on Jun 25, 2026"
+    },
+    {
+      "date": "2026-06-26",
+      "tokensApprox": 119800000,
+      "label": "119.8M tokens on Jun 26, 2026"
+    },
+    {
+      "date": "2026-06-27",
+      "tokensApprox": 0,
+      "label": "Jun 27, 2026"
+    },
+    {
+      "date": "2026-06-28",
+      "tokensApprox": 0,
+      "label": "Jun 28, 2026"
+    },
+    {
+      "date": "2026-06-29",
+      "tokensApprox": 48800000,
+      "label": "48.8M tokens on Jun 29, 2026"
+    },
+    {
+      "date": "2026-06-30",
+      "tokensApprox": 24000000,
+      "label": "24M tokens on Jun 30, 2026"
+    },
+    {
+      "date": "2026-07-01",
+      "tokensApprox": 63500000,
+      "label": "63.5M tokens on Jul 1, 2026"
+    },
+    {
+      "date": "2026-07-02",
+      "tokensApprox": 44700000,
+      "label": "44.7M tokens on Jul 2, 2026"
+    },
+    {
+      "date": "2026-07-03",
+      "tokensApprox": 79100000,
+      "label": "79.1M tokens on Jul 3, 2026"
+    },
+    {
+      "date": "2026-07-04",
+      "tokensApprox": 48600000,
+      "label": "48.6M tokens on Jul 4, 2026"
+    },
+    {
+      "date": "2026-07-05",
+      "tokensApprox": 0,
+      "label": "Jul 5, 2026"
+    },
+    {
+      "date": "2026-07-06",
+      "tokensApprox": 19700000,
+      "label": "19.7M tokens on Jul 6, 2026"
+    },
+    {
+      "date": "2026-07-07",
+      "tokensApprox": 50600000,
+      "label": "50.6M tokens on Jul 7, 2026"
+    },
+    {
+      "date": "2026-07-08",
+      "tokensApprox": 74900000,
+      "label": "74.9M tokens on Jul 8, 2026"
+    },
+    {
+      "date": "2026-07-09",
+      "tokensApprox": 119300000,
+      "label": "119.3M tokens on Jul 9, 2026"
+    },
+    {
+      "date": "2026-07-10",
+      "tokensApprox": 107700000,
+      "label": "107.7M tokens on Jul 10, 2026"
+    },
+    {
+      "date": "2026-07-11",
+      "tokensApprox": 0,
+      "label": "Jul 11, 2026"
+    },
+    {
+      "date": "2026-07-12",
+      "tokensApprox": 8700000,
+      "label": "8.7M tokens on Jul 12, 2026"
+    },
+    {
+      "date": "2026-07-13",
+      "tokensApprox": 25900000,
+      "label": "25.9M tokens on Jul 13, 2026"
+    },
+    {
+      "date": "2026-07-14",
+      "tokensApprox": 33500000,
+      "label": "33.5M tokens on Jul 14, 2026"
+    },
+    {
+      "date": "2026-07-15",
+      "tokensApprox": 99200000,
+      "label": "99.2M tokens on Jul 15, 2026"
+    },
+    {
+      "date": "2026-07-16",
+      "tokensApprox": 23200000,
+      "label": "23.2M tokens on Jul 16, 2026"
+    },
+    {
+      "date": "2026-07-17",
+      "tokensApprox": 41800000,
+      "label": "41.8M tokens on Jul 17, 2026"
+    },
+    {
+      "date": "2026-07-18",
+      "tokensApprox": 14200000,
+      "label": "14.2M tokens on Jul 18, 2026"
+    },
+    {
+      "date": "2026-07-19",
+      "tokensApprox": 229600,
+      "label": "229.6K tokens on Jul 19, 2026"
+    },
+    {
+      "date": "2026-07-20",
+      "tokensApprox": 8000000,
+      "label": "8M tokens on Jul 20, 2026"
+    },
+    {
+      "date": "2026-07-21",
+      "tokensApprox": 100300000,
+      "label": "100.3M tokens on Jul 21, 2026"
+    },
+    {
+      "date": "2026-07-22",
+      "tokensApprox": 40200000,
+      "label": "40.2M tokens on Jul 22, 2026"
+    },
+    {
+      "date": "2026-07-23",
+      "tokensApprox": 3000000,
+      "label": "3M tokens on Jul 23, 2026"
+    },
+    {
+      "date": "2026-07-24",
+      "tokensApprox": 141000000,
+      "label": "141M tokens on Jul 24, 2026"
+    },
+    {
+      "date": "2026-07-25",
+      "tokensApprox": 113300000,
+      "label": "113.3M tokens on Jul 25, 2026"
+    },
+    {
+      "date": "2026-07-26",
+      "tokensApprox": 23100000,
+      "label": "23.1M tokens on Jul 26, 2026"
+    },
+    {
+      "date": "2026-07-27",
+      "tokensApprox": 33500000,
+      "label": "33.5M tokens on Jul 27, 2026"
+    },
+    {
+      "date": "2026-07-28",
+      "tokensApprox": 66200000,
+      "label": "66.2M tokens on Jul 28, 2026"
+    },
+    {
+      "date": "2026-07-29",
+      "tokensApprox": 98500000,
+      "label": "98.5M tokens on Jul 29, 2026"
+    },
+    {
+      "date": "2026-07-30",
+      "tokensApprox": 166800000,
+      "label": "166.8M tokens on Jul 30, 2026"
+    },
+    {
+      "date": "2026-07-31",
+      "tokensApprox": 113400000,
+      "label": "113.4M tokens on Jul 31, 2026"
+    },
+    {
+      "date": "2026-08-01",
+      "tokensApprox": 45200000,
+      "label": "45.2M tokens on Aug 1, 2026"
+    },
+    {
+      "date": "2026-08-02",
+      "tokensApprox": 68300000,
+      "label": "68.3M tokens on Aug 2, 2026"
+    },
+    {
+      "date": "2026-08-03",
+      "tokensApprox": 53000000,
+      "label": "53M tokens on Aug 3, 2026"
+    },
+    {
+      "date": "2026-08-04",
+      "tokensApprox": 29500000,
+      "label": "29.5M tokens on Aug 4, 2026"
+    },
+    {
+      "date": "2026-08-05",
+      "tokensApprox": 1900000,
+      "label": "1.9M tokens on Aug 5, 2026"
+    },
+    {
+      "date": "2026-08-06",
+      "tokensApprox": 123500000,
+      "label": "123.5M tokens on Aug 6, 2026"
+    },
+    {
+      "date": "2026-08-07",
+      "tokensApprox": 91800000,
+      "label": "91.8M tokens on Aug 7, 2026"
+    },
+    {
+      "date": "2026-08-08",
+      "tokensApprox": 23100000,
+      "label": "23.1M tokens on Aug 8, 2026"
+    },
+    {
+      "date": "2026-08-09",
+      "tokensApprox": 0,
+      "label": "Aug 9, 2026"
+    },
+    {
+      "date": "2026-08-10",
+      "tokensApprox": 49800000,
+      "label": "49.8M tokens on Aug 10, 2026"
+    },
+    {
+      "date": "2026-08-11",
+      "tokensApprox": 55400000,
+      "label": "55.4M tokens on Aug 11, 2026"
+    },
+    {
+      "date": "2026-08-12",
+      "tokensApprox": 5900000,
+      "label": "5.9M tokens on Aug 12, 2026"
+    },
+    {
+      "date": "2026-08-13",
+      "tokensApprox": 0,
+      "label": "Aug 13, 2026"
+    },
+    {
+      "date": "2026-08-14",
+      "tokensApprox": 8400000,
+      "label": "8.4M tokens on Aug 14, 2026"
+    },
+    {
+      "date": "2026-08-15",
+      "tokensApprox": 0,
+      "label": "Aug 15, 2026"
+    },
+    {
+      "date": "2026-08-16",
+      "tokensApprox": 9800000,
+      "label": "9.8M tokens on Aug 16, 2026"
+    },
+    {
+      "date": "2026-08-17",
+      "tokensApprox": 142400000,
+      "label": "142.4M tokens on Aug 17, 2026"
+    },
+    {
+      "date": "2026-08-18",
+      "tokensApprox": 118300000,
+      "label": "118.3M tokens on Aug 18, 2026"
+    },
+    {
+      "date": "2026-08-19",
+      "tokensApprox": 45800000,
+      "label": "45.8M tokens on Aug 19, 2026"
+    },
+    {
+      "date": "2026-08-20",
+      "tokensApprox": 8200000,
+      "label": "8.2M tokens on Aug 20, 2026"
+    },
+    {
+      "date": "2026-08-21",
+      "tokensApprox": 31900000,
+      "label": "31.9M tokens on Aug 21, 2026"
+    },
+    {
+      "date": "2026-08-22",
+      "tokensApprox": 10800000,
+      "label": "10.8M tokens on Aug 22, 2026"
+    },
+    {
+      "date": "2026-08-23",
+      "tokensApprox": 495300,
+      "label": "495.3K tokens on Aug 23, 2026"
+    },
+    {
+      "date": "2026-08-24",
+      "tokensApprox": 51200000,
+      "label": "51.2M tokens on Aug 24, 2026"
+    },
+    {
+      "date": "2026-08-25",
+      "tokensApprox": 141000000,
+      "label": "141M tokens on Aug 25, 2026"
+    },
+    {
+      "date": "2026-08-26",
+      "tokensApprox": 112300000,
+      "label": "112.3M tokens on Aug 26, 2026"
+    },
+    {
+      "date": "2026-08-27",
+      "tokensApprox": 87600000,
+      "label": "87.6M tokens on Aug 27, 2026"
+    },
+    {
+      "date": "2026-08-28",
+      "tokensApprox": 143300000,
+      "label": "143.3M tokens on Aug 28, 2026"
+    },
+    {
+      "date": "2026-08-29",
+      "tokensApprox": 65400000,
+      "label": "65.4M tokens on Aug 29, 2026"
+    },
+    {
+      "date": "2026-08-30",
+      "tokensApprox": 0,
+      "label": "Aug 30, 2026"
+    },
+    {
+      "date": "2026-08-31",
+      "tokensApprox": 102500000,
+      "label": "102.5M tokens on Aug 31, 2026"
+    },
+    {
+      "date": "2026-09-01",
+      "tokensApprox": 160900000,
+      "label": "160.9M tokens on Sep 1, 2026"
+    },
+    {
+      "date": "2026-09-02",
+      "tokensApprox": 224200000,
+      "label": "224.2M tokens on Sep 2, 2026"
+    },
+    {
+      "date": "2026-09-03",
+      "tokensApprox": 150400000,
+      "label": "150.4M tokens on Sep 3, 2026"
+    },
+    {
+      "date": "2026-09-04",
+      "tokensApprox": 70300000,
+      "label": "70.3M tokens on Sep 4, 2026"
+    },
+    {
+      "date": "2026-09-05",
+      "tokensApprox": 70300000,
+      "label": "70.3M tokens on Sep 5, 2026"
+    },
+    {
+      "date": "2026-09-06",
+      "tokensApprox": 79300000,
+      "label": "79.3M tokens on Sep 6, 2026"
+    },
+    {
+      "date": "2026-09-07",
+      "tokensApprox": 57400000,
+      "label": "57.4M tokens on Sep 7, 2026"
+    },
+    {
+      "date": "2026-09-08",
+      "tokensApprox": 79700000,
+      "label": "79.7M tokens on Sep 8, 2026"
+    },
+    {
+      "date": "2026-09-09",
+      "tokensApprox": 2700000,
+      "label": "2.7M tokens on Sep 9, 2026"
+    },
+    {
+      "date": "2026-09-10",
+      "tokensApprox": 3300000,
+      "label": "3.3M tokens on Sep 10, 2026"
+    },
+    {
+      "date": "2026-09-11",
+      "tokensApprox": 21800000,
+      "label": "21.8M tokens on Sep 11, 2026"
+    },
+    {
+      "date": "2026-09-12",
+      "tokensApprox": 3500000,
+      "label": "3.5M tokens on Sep 12, 2026"
+    },
+    {
+      "date": "2026-09-13",
+      "tokensApprox": 1200000,
+      "label": "1.2M tokens on Sep 13, 2026"
+    },
+    {
+      "date": "2026-09-14",
+      "tokensApprox": 2400000,
+      "label": "2.4M tokens on Sep 14, 2026"
+    },
+    {
+      "date": "2026-09-15",
+      "tokensApprox": 18800000,
+      "label": "18.8M tokens on Sep 15, 2026"
+    },
+    {
+      "date": "2026-09-16",
+      "tokensApprox": 16500000,
+      "label": "16.5M tokens on Sep 16, 2026"
+    },
+    {
+      "date": "2026-09-17",
+      "tokensApprox": 20400000,
+      "label": "20.4M tokens on Sep 17, 2026"
+    },
+    {
+      "date": "2026-09-18",
+      "tokensApprox": 600200,
+      "label": "600.2K tokens on Sep 18, 2026"
+    },
+    {
+      "date": "2026-09-19",
+      "tokensApprox": 646800,
+      "label": "646.8K tokens on Sep 19, 2026"
+    },
+    {
+      "date": "2026-09-20",
+      "tokensApprox": 34300000,
+      "label": "34.3M tokens on Sep 20, 2026"
+    },
+    {
+      "date": "2026-09-21",
+      "tokensApprox": 894200,
+      "label": "894.2K tokens on Sep 21, 2026"
+    },
+    {
+      "date": "2026-09-22",
+      "tokensApprox": 1600000,
+      "label": "1.6M tokens on Sep 22, 2026"
+    },
+    {
+      "date": "2026-09-23",
+      "tokensApprox": 1100000,
+      "label": "1.1M tokens on Sep 23, 2026"
+    },
+    {
+      "date": "2026-09-24",
+      "tokensApprox": 0,
+      "label": "Sep 24, 2026"
+    },
+    {
+      "date": "2026-09-25",
+      "tokensApprox": 0,
+      "label": "Sep 25, 2026"
+    },
+    {
+      "date": "2026-09-26",
+      "tokensApprox": 86300000,
+      "label": "86.3M tokens on Sep 26, 2026"
+    },
+    {
+      "date": "2026-09-27",
+      "tokensApprox": 0,
+      "label": "Sep 27, 2026"
+    },
+    {
+      "date": "2026-09-28",
+      "tokensApprox": 90200000,
+      "label": "90.2M tokens on Sep 28, 2026"
+    },
+    {
+      "date": "2026-09-29",
+      "tokensApprox": 91100000,
+      "label": "91.1M tokens on Sep 29, 2026"
+    },
+    {
+      "date": "2026-09-30",
+      "tokensApprox": 12700000,
+      "label": "12.7M tokens on Sep 30, 2026"
+    },
+    {
+      "date": "2026-10-01",
+      "tokensApprox": 1500000,
+      "label": "1.5M tokens on Oct 1, 2026"
+    },
+    {
+      "date": "2026-10-02",
+      "tokensApprox": 0,
+      "label": "Oct 2, 2026"
+    },
+    {
+      "date": "2026-10-03",
+      "tokensApprox": 0,
+      "label": "Oct 3, 2026"
+    },
+    {
+      "date": "2026-10-04",
+      "tokensApprox": 0,
+      "label": "Oct 4, 2026"
+    },
+    {
+      "date": "2026-10-05",
+      "tokensApprox": 0,
+      "label": "Oct 5, 2026"
+    },
+    {
+      "date": "2026-10-06",
+      "tokensApprox": 0,
+      "label": "Oct 6, 2026"
+    },
+    {
+      "date": "2026-10-07",
+      "tokensApprox": 0,
+      "label": "Oct 7, 2026"
+    },
+    {
+      "date": "2026-10-08",
+      "tokensApprox": 830800,
+      "label": "830.8K tokens on Oct 8, 2026"
+    },
+    {
+      "date": "2026-10-09",
+      "tokensApprox": 217200,
+      "label": "217.2K tokens on Oct 9, 2026"
+    },
+    {
+      "date": "2026-10-10",
+      "tokensApprox": 574700,
+      "label": "574.7K tokens on Oct 10, 2026"
+    },
+    {
+      "date": "2026-10-11",
+      "tokensApprox": 2800000,
+      "label": "2.8M tokens on Oct 11, 2026"
+    },
+    {
+      "date": "2026-10-12",
+      "tokensApprox": 0,
+      "label": "Oct 12, 2026"
+    },
+    {
+      "date": "2026-10-13",
+      "tokensApprox": 6500000,
+      "label": "6.5M tokens on Oct 13, 2026"
+    },
+    {
+      "date": "2026-10-14",
+      "tokensApprox": 0,
+      "label": "Oct 14, 2026"
+    },
+    {
+      "date": "2026-10-15",
+      "tokensApprox": 0,
+      "label": "Oct 15, 2026"
+    }
+  ]
+}

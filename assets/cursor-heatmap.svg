@@ -1,0 +1,398 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-labelledby="title desc">
+<title id="title">Cursor activity · 2026 · @insterest</title>
+<desc id="desc">Approximately 13.37B tokens across 253 active days. Longest streak: 60 days. January 1 through 2026-10-15. Daily values are rounded by Cursor.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#1f2328}.muted{fill:#656d76}.frame{fill:#fff;stroke:#d1d9e0}.empty{fill:#ebedf0}.future{fill:#f6f8fa}.l1{fill:#f5c4a5}.l2{fill:#eea075}.l3{fill:#e7814e}.l4{fill:#dc602f}@media(prefers-color-scheme:dark){text{fill:#e6edf3}.muted{fill:#9198a1}.frame{fill:#0d1117;stroke:#30363d}.empty{fill:#21262d}.future{fill:#161b22}.l1{fill:#613826}.l2{fill:#985033}.l3{fill:#ca683e}.l4{fill:#f28b54}}</style>
+<rect class="frame" x="0.5" y="0.5" width="859" height="259" rx="12"/>
+<circle cx="29" cy="32" r="5" fill="#e7814e"/>
+<text x="44" y="38" font-size="20" font-weight="600">Cursor activity</text>
+<text class="muted" x="832" y="37" text-anchor="end" font-size="13">@insterest · 2026</text>
+<text x="24" y="67" font-size="14">≈ 13.37B tokens<tspan class="muted">  ·  253 active days  ·  60-day longest streak</tspan></text>
+<text class="muted" x="72" y="100" font-size="11">Jan</text>
+<text class="muted" x="142" y="100" font-size="11">Feb</text>
+<text class="muted" x="198" y="100" font-size="11">Mar</text>
+<text class="muted" x="254" y="100" font-size="11">Apr</text>
+<text class="muted" x="310" y="100" font-size="11">May</text>
+<text class="muted" x="380" y="100" font-size="11">Jun</text>
+<text class="muted" x="436" y="100" font-size="11">Jul</text>
+<text class="muted" x="492" y="100" font-size="11">Aug</text>
+<text class="muted" x="562" y="100" font-size="11">Sep</text>
+<text class="muted" x="618" y="100" font-size="11">Oct</text>
+<text class="muted" x="688" y="100" font-size="11">Nov</text>
+<text class="muted" x="744" y="100" font-size="11">Dec</text>
+<text class="muted" x="24" y="135" font-size="10">Mon</text>
+<text class="muted" x="24" y="163" font-size="10">Wed</text>
+<text class="muted" x="24" y="191" font-size="10">Fri</text>
+<circle class="l1" cx="72" cy="173" r="4.8"><title>335.9K tokens on Jan 1, 2026</title></circle>
+<circle class="l1" cx="72" cy="187" r="4.8"><title>411.5K tokens on Jan 2, 2026</title></circle>
+<circle class="l1" cx="72" cy="201" r="4.8"><title>8.6M tokens on Jan 3, 2026</title></circle>
+<circle class="l1" cx="86" cy="117" r="4.8"><title>13.6M tokens on Jan 4, 2026</title></circle>
+<circle class="l1" cx="86" cy="131" r="4.8"><title>2.3M tokens on Jan 5, 2026</title></circle>
+<circle class="l1" cx="86" cy="145" r="4.8"><title>1.2M tokens on Jan 6, 2026</title></circle>
+<circle class="l1" cx="86" cy="159" r="4.8"><title>21.5M tokens on Jan 7, 2026</title></circle>
+<circle class="l1" cx="86" cy="173" r="4.8"><title>13.2M tokens on Jan 8, 2026</title></circle>
+<circle class="l1" cx="86" cy="187" r="4.8"><title>34.7M tokens on Jan 9, 2026</title></circle>
+<circle class="l1" cx="86" cy="201" r="4.8"><title>7.8M tokens on Jan 10, 2026</title></circle>
+<circle class="l1" cx="100" cy="117" r="4.8"><title>4.7M tokens on Jan 11, 2026</title></circle>
+<circle class="l1" cx="100" cy="131" r="4.8"><title>2.9M tokens on Jan 12, 2026</title></circle>
+<circle class="empty" cx="100" cy="145" r="4.8"><title>Jan 13, 2026</title></circle>
+<circle class="empty" cx="100" cy="159" r="4.8"><title>Jan 14, 2026</title></circle>
+<circle class="empty" cx="100" cy="173" r="4.8"><title>Jan 15, 2026</title></circle>
+<circle class="empty" cx="100" cy="187" r="4.8"><title>Jan 16, 2026</title></circle>
+<circle class="empty" cx="100" cy="201" r="4.8"><title>Jan 17, 2026</title></circle>
+<circle class="empty" cx="114" cy="117" r="4.8"><title>Jan 18, 2026</title></circle>
+<circle class="empty" cx="114" cy="131" r="4.8"><title>Jan 19, 2026</title></circle>
+<circle class="empty" cx="114" cy="145" r="4.8"><title>Jan 20, 2026</title></circle>
+<circle class="empty" cx="114" cy="159" r="4.8"><title>Jan 21, 2026</title></circle>
+<circle class="l1" cx="114" cy="173" r="4.8"><title>31.6M tokens on Jan 22, 2026</title></circle>
+<circle class="l1" cx="114" cy="187" r="4.8"><title>80.4M tokens on Jan 23, 2026</title></circle>
+<circle class="l1" cx="114" cy="201" r="4.8"><title>23.9M tokens on Jan 24, 2026</title></circle>
+<circle class="l1" cx="128" cy="117" r="4.8"><title>894.1K tokens on Jan 25, 2026</title></circle>
+<circle class="l1" cx="128" cy="131" r="4.8"><title>19.5M tokens on Jan 26, 2026</title></circle>
+<circle class="l1" cx="128" cy="145" r="4.8"><title>47.9M tokens on Jan 27, 2026</title></circle>
+<circle class="l1" cx="128" cy="159" r="4.8"><title>11.4M tokens on Jan 28, 2026</title></circle>
+<circle class="l1" cx="128" cy="173" r="4.8"><title>71.1M tokens on Jan 29, 2026</title></circle>
+<circle class="l1" cx="128" cy="187" r="4.8"><title>2.5M tokens on Jan 30, 2026</title></circle>
+<circle class="l1" cx="128" cy="201" r="4.8"><title>16.2M tokens on Jan 31, 2026</title></circle>
+<circle class="l1" cx="142" cy="117" r="4.8"><title>31.1M tokens on Feb 1, 2026</title></circle>
+<circle class="l1" cx="142" cy="131" r="4.8"><title>3M tokens on Feb 2, 2026</title></circle>
+<circle class="l1" cx="142" cy="145" r="4.8"><title>3.9M tokens on Feb 3, 2026</title></circle>
+<circle class="l1" cx="142" cy="159" r="4.8"><title>2.1M tokens on Feb 4, 2026</title></circle>
+<circle class="l1" cx="142" cy="173" r="4.8"><title>13.4M tokens on Feb 5, 2026</title></circle>
+<circle class="empty" cx="142" cy="187" r="4.8"><title>Feb 6, 2026</title></circle>
+<circle class="l1" cx="142" cy="201" r="4.8"><title>1.3M tokens on Feb 7, 2026</title></circle>
+<circle class="empty" cx="156" cy="117" r="4.8"><title>Feb 8, 2026</title></circle>
+<circle class="empty" cx="156" cy="131" r="4.8"><title>Feb 9, 2026</title></circle>
+<circle class="l1" cx="156" cy="145" r="4.8"><title>11.9M tokens on Feb 10, 2026</title></circle>
+<circle class="l1" cx="156" cy="159" r="4.8"><title>2.1M tokens on Feb 11, 2026</title></circle>
+<circle class="l1" cx="156" cy="173" r="4.8"><title>4.8M tokens on Feb 12, 2026</title></circle>
+<circle class="l1" cx="156" cy="187" r="4.8"><title>1.4M tokens on Feb 13, 2026</title></circle>
+<circle class="l1" cx="156" cy="201" r="4.8"><title>24.1M tokens on Feb 14, 2026</title></circle>
+<circle class="l1" cx="170" cy="117" r="4.8"><title>13.2M tokens on Feb 15, 2026</title></circle>
+<circle class="l1" cx="170" cy="131" r="4.8"><title>2.1M tokens on Feb 16, 2026</title></circle>
+<circle class="l1" cx="170" cy="145" r="4.8"><title>5.4M tokens on Feb 17, 2026</title></circle>
+<circle class="l1" cx="170" cy="159" r="4.8"><title>25.9M tokens on Feb 18, 2026</title></circle>
+<circle class="l2" cx="170" cy="173" r="4.8"><title>99.2M tokens on Feb 19, 2026</title></circle>
+<circle class="l2" cx="170" cy="187" r="4.8"><title>87.3M tokens on Feb 20, 2026</title></circle>
+<circle class="l1" cx="170" cy="201" r="4.8"><title>73.5M tokens on Feb 21, 2026</title></circle>
+<circle class="empty" cx="184" cy="117" r="4.8"><title>Feb 22, 2026</title></circle>
+<circle class="l1" cx="184" cy="131" r="4.8"><title>19.6M tokens on Feb 23, 2026</title></circle>
+<circle class="l1" cx="184" cy="145" r="4.8"><title>30M tokens on Feb 24, 2026</title></circle>
+<circle class="l1" cx="184" cy="159" r="4.8"><title>31.6M tokens on Feb 25, 2026</title></circle>
+<circle class="l4" cx="184" cy="173" r="4.8"><title>334.8M tokens on Feb 26, 2026</title></circle>
+<circle class="l2" cx="184" cy="187" r="4.8"><title>92.3M tokens on Feb 27, 2026</title></circle>
+<circle class="l1" cx="184" cy="201" r="4.8"><title>41.3M tokens on Feb 28, 2026</title></circle>
+<circle class="l1" cx="198" cy="117" r="4.8"><title>4.4M tokens on Mar 1, 2026</title></circle>
+<circle class="l1" cx="198" cy="131" r="4.8"><title>55.3M tokens on Mar 2, 2026</title></circle>
+<circle class="l1" cx="198" cy="145" r="4.8"><title>17.3M tokens on Mar 3, 2026</title></circle>
+<circle class="l1" cx="198" cy="159" r="4.8"><title>9.1M tokens on Mar 4, 2026</title></circle>
+<circle class="l1" cx="198" cy="173" r="4.8"><title>20.9M tokens on Mar 5, 2026</title></circle>
+<circle class="l1" cx="198" cy="187" r="4.8"><title>61.3M tokens on Mar 6, 2026</title></circle>
+<circle class="l1" cx="198" cy="201" r="4.8"><title>79M tokens on Mar 7, 2026</title></circle>
+<circle class="l1" cx="212" cy="117" r="4.8"><title>41.9M tokens on Mar 8, 2026</title></circle>
+<circle class="l3" cx="212" cy="131" r="4.8"><title>180.5M tokens on Mar 9, 2026</title></circle>
+<circle class="l2" cx="212" cy="145" r="4.8"><title>106.6M tokens on Mar 10, 2026</title></circle>
+<circle class="l1" cx="212" cy="159" r="4.8"><title>83.1M tokens on Mar 11, 2026</title></circle>
+<circle class="l1" cx="212" cy="173" r="4.8"><title>43.9M tokens on Mar 12, 2026</title></circle>
+<circle class="l1" cx="212" cy="187" r="4.8"><title>47.7M tokens on Mar 13, 2026</title></circle>
+<circle class="l1" cx="212" cy="201" r="4.8"><title>6M tokens on Mar 14, 2026</title></circle>
+<circle class="l1" cx="226" cy="117" r="4.8"><title>75.6K tokens on Mar 15, 2026</title></circle>
+<circle class="l1" cx="226" cy="131" r="4.8"><title>53.4M tokens on Mar 16, 2026</title></circle>
+<circle class="l1" cx="226" cy="145" r="4.8"><title>26.8M tokens on Mar 17, 2026</title></circle>
+<circle class="l1" cx="226" cy="159" r="4.8"><title>47.4M tokens on Mar 18, 2026</title></circle>
+<circle class="l1" cx="226" cy="173" r="4.8"><title>64.6M tokens on Mar 19, 2026</title></circle>
+<circle class="l1" cx="226" cy="187" r="4.8"><title>45.4M tokens on Mar 20, 2026</title></circle>
+<circle class="l2" cx="226" cy="201" r="4.8"><title>154.1M tokens on Mar 21, 2026</title></circle>
+<circle class="l1" cx="240" cy="117" r="4.8"><title>71.7M tokens on Mar 22, 2026</title></circle>
+<circle class="l2" cx="240" cy="131" r="4.8"><title>159.8M tokens on Mar 23, 2026</title></circle>
+<circle class="l1" cx="240" cy="145" r="4.8"><title>46.2M tokens on Mar 24, 2026</title></circle>
+<circle class="l1" cx="240" cy="159" r="4.8"><title>41.1M tokens on Mar 25, 2026</title></circle>
+<circle class="l1" cx="240" cy="173" r="4.8"><title>61.1M tokens on Mar 26, 2026</title></circle>
+<circle class="l2" cx="240" cy="187" r="4.8"><title>87M tokens on Mar 27, 2026</title></circle>
+<circle class="l2" cx="240" cy="201" r="4.8"><title>102.7M tokens on Mar 28, 2026</title></circle>
+<circle class="l1" cx="254" cy="117" r="4.8"><title>64M tokens on Mar 29, 2026</title></circle>
+<circle class="l2" cx="254" cy="131" r="4.8"><title>89.9M tokens on Mar 30, 2026</title></circle>
+<circle class="l1" cx="254" cy="145" r="4.8"><title>73.5M tokens on Mar 31, 2026</title></circle>
+<circle class="l2" cx="254" cy="159" r="4.8"><title>93.9M tokens on Apr 1, 2026</title></circle>
+<circle class="l1" cx="254" cy="173" r="4.8"><title>22.8M tokens on Apr 2, 2026</title></circle>
+<circle class="l1" cx="254" cy="187" r="4.8"><title>58.1M tokens on Apr 3, 2026</title></circle>
+<circle class="l1" cx="254" cy="201" r="4.8"><title>28.7M tokens on Apr 4, 2026</title></circle>
+<circle class="l1" cx="268" cy="117" r="4.8"><title>54.8M tokens on Apr 5, 2026</title></circle>
+<circle class="l1" cx="268" cy="131" r="4.8"><title>71.2M tokens on Apr 6, 2026</title></circle>
+<circle class="l1" cx="268" cy="145" r="4.8"><title>17.5M tokens on Apr 7, 2026</title></circle>
+<circle class="l1" cx="268" cy="159" r="4.8"><title>15M tokens on Apr 8, 2026</title></circle>
+<circle class="l2" cx="268" cy="173" r="4.8"><title>97.8M tokens on Apr 9, 2026</title></circle>
+<circle class="l1" cx="268" cy="187" r="4.8"><title>47.6M tokens on Apr 10, 2026</title></circle>
+<circle class="l1" cx="268" cy="201" r="4.8"><title>66.7M tokens on Apr 11, 2026</title></circle>
+<circle class="l1" cx="282" cy="117" r="4.8"><title>60.2M tokens on Apr 12, 2026</title></circle>
+<circle class="l2" cx="282" cy="131" r="4.8"><title>113.2M tokens on Apr 13, 2026</title></circle>
+<circle class="l2" cx="282" cy="145" r="4.8"><title>106.5M tokens on Apr 14, 2026</title></circle>
+<circle class="l2" cx="282" cy="159" r="4.8"><title>98.6M tokens on Apr 15, 2026</title></circle>
+<circle class="l3" cx="282" cy="173" r="4.8"><title>197.8M tokens on Apr 16, 2026</title></circle>
+<circle class="l2" cx="282" cy="187" r="4.8"><title>131.4M tokens on Apr 17, 2026</title></circle>
+<circle class="l2" cx="282" cy="201" r="4.8"><title>124.5M tokens on Apr 18, 2026</title></circle>
+<circle class="l1" cx="296" cy="117" r="4.8"><title>71.5M tokens on Apr 19, 2026</title></circle>
+<circle class="l2" cx="296" cy="131" r="4.8"><title>166.6M tokens on Apr 20, 2026</title></circle>
+<circle class="l3" cx="296" cy="145" r="4.8"><title>237.3M tokens on Apr 21, 2026</title></circle>
+<circle class="l1" cx="296" cy="159" r="4.8"><title>68.6M tokens on Apr 22, 2026</title></circle>
+<circle class="l2" cx="296" cy="173" r="4.8"><title>134.9M tokens on Apr 23, 2026</title></circle>
+<circle class="empty" cx="296" cy="187" r="4.8"><title>Apr 24, 2026</title></circle>
+<circle class="l1" cx="296" cy="201" r="4.8"><title>32M tokens on Apr 25, 2026</title></circle>
+<circle class="l1" cx="310" cy="117" r="4.8"><title>41.7M tokens on Apr 26, 2026</title></circle>
+<circle class="l2" cx="310" cy="131" r="4.8"><title>149.9M tokens on Apr 27, 2026</title></circle>
+<circle class="l1" cx="310" cy="145" r="4.8"><title>71.8M tokens on Apr 28, 2026</title></circle>
+<circle class="l1" cx="310" cy="159" r="4.8"><title>236.2K tokens on Apr 29, 2026</title></circle>
+<circle class="l1" cx="310" cy="173" r="4.8"><title>8.3M tokens on Apr 30, 2026</title></circle>
+<circle class="l1" cx="310" cy="187" r="4.8"><title>6.4M tokens on May 1, 2026</title></circle>
+<circle class="l1" cx="310" cy="201" r="4.8"><title>42.4M tokens on May 2, 2026</title></circle>
+<circle class="l1" cx="324" cy="117" r="4.8"><title>5.3M tokens on May 3, 2026</title></circle>
+<circle class="l1" cx="324" cy="131" r="4.8"><title>23.9M tokens on May 4, 2026</title></circle>
+<circle class="l2" cx="324" cy="145" r="4.8"><title>108.6M tokens on May 5, 2026</title></circle>
+<circle class="l1" cx="324" cy="159" r="4.8"><title>32.6M tokens on May 6, 2026</title></circle>
+<circle class="l1" cx="324" cy="173" r="4.8"><title>19.2M tokens on May 7, 2026</title></circle>
+<circle class="l1" cx="324" cy="187" r="4.8"><title>72.2M tokens on May 8, 2026</title></circle>
+<circle class="l1" cx="324" cy="201" r="4.8"><title>13.5M tokens on May 9, 2026</title></circle>
+<circle class="l1" cx="338" cy="117" r="4.8"><title>61.3M tokens on May 10, 2026</title></circle>
+<circle class="l1" cx="338" cy="131" r="4.8"><title>32.3M tokens on May 11, 2026</title></circle>
+<circle class="l1" cx="338" cy="145" r="4.8"><title>28.2M tokens on May 12, 2026</title></circle>
+<circle class="l1" cx="338" cy="159" r="4.8"><title>15.3M tokens on May 13, 2026</title></circle>
+<circle class="l1" cx="338" cy="173" r="4.8"><title>10.5M tokens on May 14, 2026</title></circle>
+<circle class="l1" cx="338" cy="187" r="4.8"><title>64.9M tokens on May 15, 2026</title></circle>
+<circle class="l1" cx="338" cy="201" r="4.8"><title>68.8M tokens on May 16, 2026</title></circle>
+<circle class="l1" cx="352" cy="117" r="4.8"><title>63.7M tokens on May 17, 2026</title></circle>
+<circle class="l1" cx="352" cy="131" r="4.8"><title>19M tokens on May 18, 2026</title></circle>
+<circle class="l1" cx="352" cy="145" r="4.8"><title>15M tokens on May 19, 2026</title></circle>
+<circle class="l1" cx="352" cy="159" r="4.8"><title>3.4M tokens on May 20, 2026</title></circle>
+<circle class="l1" cx="352" cy="173" r="4.8"><title>10.9M tokens on May 21, 2026</title></circle>
+<circle class="l2" cx="352" cy="187" r="4.8"><title>105.4M tokens on May 22, 2026</title></circle>
+<circle class="l1" cx="352" cy="201" r="4.8"><title>49.4M tokens on May 23, 2026</title></circle>
+<circle class="l1" cx="366" cy="117" r="4.8"><title>54.3M tokens on May 24, 2026</title></circle>
+<circle class="l2" cx="366" cy="131" r="4.8"><title>89.6M tokens on May 25, 2026</title></circle>
+<circle class="l1" cx="366" cy="145" r="4.8"><title>59.7M tokens on May 26, 2026</title></circle>
+<circle class="l1" cx="366" cy="159" r="4.8"><title>12.4M tokens on May 27, 2026</title></circle>
+<circle class="l1" cx="366" cy="173" r="4.8"><title>23.3M tokens on May 28, 2026</title></circle>
+<circle class="l1" cx="366" cy="187" r="4.8"><title>48.5M tokens on May 29, 2026</title></circle>
+<circle class="l1" cx="366" cy="201" r="4.8"><title>8.6M tokens on May 30, 2026</title></circle>
+<circle class="l1" cx="380" cy="117" r="4.8"><title>42.4M tokens on May 31, 2026</title></circle>
+<circle class="l1" cx="380" cy="131" r="4.8"><title>20M tokens on Jun 1, 2026</title></circle>
+<circle class="l1" cx="380" cy="145" r="4.8"><title>14.5M tokens on Jun 2, 2026</title></circle>
+<circle class="l1" cx="380" cy="159" r="4.8"><title>23.8M tokens on Jun 3, 2026</title></circle>
+<circle class="l1" cx="380" cy="173" r="4.8"><title>19M tokens on Jun 4, 2026</title></circle>
+<circle class="l2" cx="380" cy="187" r="4.8"><title>152.7M tokens on Jun 5, 2026</title></circle>
+<circle class="l2" cx="380" cy="201" r="4.8"><title>109.5M tokens on Jun 6, 2026</title></circle>
+<circle class="l1" cx="394" cy="117" r="4.8"><title>19.6M tokens on Jun 7, 2026</title></circle>
+<circle class="l2" cx="394" cy="131" r="4.8"><title>119.9M tokens on Jun 8, 2026</title></circle>
+<circle class="l1" cx="394" cy="145" r="4.8"><title>9.4M tokens on Jun 9, 2026</title></circle>
+<circle class="l1" cx="394" cy="159" r="4.8"><title>23M tokens on Jun 10, 2026</title></circle>
+<circle class="l1" cx="394" cy="173" r="4.8"><title>77.1M tokens on Jun 11, 2026</title></circle>
+<circle class="l1" cx="394" cy="187" r="4.8"><title>68.1M tokens on Jun 12, 2026</title></circle>
+<circle class="l1" cx="394" cy="201" r="4.8"><title>37.1M tokens on Jun 13, 2026</title></circle>
+<circle class="empty" cx="408" cy="117" r="4.8"><title>Jun 14, 2026</title></circle>
+<circle class="l1" cx="408" cy="131" r="4.8"><title>63.3M tokens on Jun 15, 2026</title></circle>
+<circle class="l1" cx="408" cy="145" r="4.8"><title>33.7M tokens on Jun 16, 2026</title></circle>
+<circle class="l1" cx="408" cy="159" r="4.8"><title>10.4M tokens on Jun 17, 2026</title></circle>
+<circle class="l2" cx="408" cy="173" r="4.8"><title>105.3M tokens on Jun 18, 2026</title></circle>
+<circle class="l1" cx="408" cy="187" r="4.8"><title>2.6M tokens on Jun 19, 2026</title></circle>
+<circle class="l1" cx="408" cy="201" r="4.8"><title>21.4M tokens on Jun 20, 2026</title></circle>
+<circle class="l2" cx="422" cy="117" r="4.8"><title>142.4M tokens on Jun 21, 2026</title></circle>
+<circle class="l1" cx="422" cy="131" r="4.8"><title>80M tokens on Jun 22, 2026</title></circle>
+<circle class="l2" cx="422" cy="145" r="4.8"><title>108.6M tokens on Jun 23, 2026</title></circle>
+<circle class="l2" cx="422" cy="159" r="4.8"><title>139.4M tokens on Jun 24, 2026</title></circle>
+<circle class="l2" cx="422" cy="173" r="4.8"><title>158.9M tokens on Jun 25, 2026</title></circle>
+<circle class="l2" cx="422" cy="187" r="4.8"><title>119.8M tokens on Jun 26, 2026</title></circle>
+<circle class="empty" cx="422" cy="201" r="4.8"><title>Jun 27, 2026</title></circle>
+<circle class="empty" cx="436" cy="117" r="4.8"><title>Jun 28, 2026</title></circle>
+<circle class="l1" cx="436" cy="131" r="4.8"><title>48.8M tokens on Jun 29, 2026</title></circle>
+<circle class="l1" cx="436" cy="145" r="4.8"><title>24M tokens on Jun 30, 2026</title></circle>
+<circle class="l1" cx="436" cy="159" r="4.8"><title>63.5M tokens on Jul 1, 2026</title></circle>
+<circle class="l1" cx="436" cy="173" r="4.8"><title>44.7M tokens on Jul 2, 2026</title></circle>
+<circle class="l1" cx="436" cy="187" r="4.8"><title>79.1M tokens on Jul 3, 2026</title></circle>
+<circle class="l1" cx="436" cy="201" r="4.8"><title>48.6M tokens on Jul 4, 2026</title></circle>
+<circle class="empty" cx="450" cy="117" r="4.8"><title>Jul 5, 2026</title></circle>
+<circle class="l1" cx="450" cy="131" r="4.8"><title>19.7M tokens on Jul 6, 2026</title></circle>
+<circle class="l1" cx="450" cy="145" r="4.8"><title>50.6M tokens on Jul 7, 2026</title></circle>
+<circle class="l1" cx="450" cy="159" r="4.8"><title>74.9M tokens on Jul 8, 2026</title></circle>
+<circle class="l2" cx="450" cy="173" r="4.8"><title>119.3M tokens on Jul 9, 2026</title></circle>
+<circle class="l2" cx="450" cy="187" r="4.8"><title>107.7M tokens on Jul 10, 2026</title></circle>
+<circle class="empty" cx="450" cy="201" r="4.8"><title>Jul 11, 2026</title></circle>
+<circle class="l1" cx="464" cy="117" r="4.8"><title>8.7M tokens on Jul 12, 2026</title></circle>
+<circle class="l1" cx="464" cy="131" r="4.8"><title>25.9M tokens on Jul 13, 2026</title></circle>
+<circle class="l1" cx="464" cy="145" r="4.8"><title>33.5M tokens on Jul 14, 2026</title></circle>
+<circle class="l2" cx="464" cy="159" r="4.8"><title>99.2M tokens on Jul 15, 2026</title></circle>
+<circle class="l1" cx="464" cy="173" r="4.8"><title>23.2M tokens on Jul 16, 2026</title></circle>
+<circle class="l1" cx="464" cy="187" r="4.8"><title>41.8M tokens on Jul 17, 2026</title></circle>
+<circle class="l1" cx="464" cy="201" r="4.8"><title>14.2M tokens on Jul 18, 2026</title></circle>
+<circle class="l1" cx="478" cy="117" r="4.8"><title>229.6K tokens on Jul 19, 2026</title></circle>
+<circle class="l1" cx="478" cy="131" r="4.8"><title>8M tokens on Jul 20, 2026</title></circle>
+<circle class="l2" cx="478" cy="145" r="4.8"><title>100.3M tokens on Jul 21, 2026</title></circle>
+<circle class="l1" cx="478" cy="159" r="4.8"><title>40.2M tokens on Jul 22, 2026</title></circle>
+<circle class="l1" cx="478" cy="173" r="4.8"><title>3M tokens on Jul 23, 2026</title></circle>
+<circle class="l2" cx="478" cy="187" r="4.8"><title>141M tokens on Jul 24, 2026</title></circle>
+<circle class="l2" cx="478" cy="201" r="4.8"><title>113.3M tokens on Jul 25, 2026</title></circle>
+<circle class="l1" cx="492" cy="117" r="4.8"><title>23.1M tokens on Jul 26, 2026</title></circle>
+<circle class="l1" cx="492" cy="131" r="4.8"><title>33.5M tokens on Jul 27, 2026</title></circle>
+<circle class="l1" cx="492" cy="145" r="4.8"><title>66.2M tokens on Jul 28, 2026</title></circle>
+<circle class="l2" cx="492" cy="159" r="4.8"><title>98.5M tokens on Jul 29, 2026</title></circle>
+<circle class="l2" cx="492" cy="173" r="4.8"><title>166.8M tokens on Jul 30, 2026</title></circle>
+<circle class="l2" cx="492" cy="187" r="4.8"><title>113.4M tokens on Jul 31, 2026</title></circle>
+<circle class="l1" cx="492" cy="201" r="4.8"><title>45.2M tokens on Aug 1, 2026</title></circle>
+<circle class="l1" cx="506" cy="117" r="4.8"><title>68.3M tokens on Aug 2, 2026</title></circle>
+<circle class="l1" cx="506" cy="131" r="4.8"><title>53M tokens on Aug 3, 2026</title></circle>
+<circle class="l1" cx="506" cy="145" r="4.8"><title>29.5M tokens on Aug 4, 2026</title></circle>
+<circle class="l1" cx="506" cy="159" r="4.8"><title>1.9M tokens on Aug 5, 2026</title></circle>
+<circle class="l2" cx="506" cy="173" r="4.8"><title>123.5M tokens on Aug 6, 2026</title></circle>
+<circle class="l2" cx="506" cy="187" r="4.8"><title>91.8M tokens on Aug 7, 2026</title></circle>
+<circle class="l1" cx="506" cy="201" r="4.8"><title>23.1M tokens on Aug 8, 2026</title></circle>
+<circle class="empty" cx="520" cy="117" r="4.8"><title>Aug 9, 2026</title></circle>
+<circle class="l1" cx="520" cy="131" r="4.8"><title>49.8M tokens on Aug 10, 2026</title></circle>
+<circle class="l1" cx="520" cy="145" r="4.8"><title>55.4M tokens on Aug 11, 2026</title></circle>
+<circle class="l1" cx="520" cy="159" r="4.8"><title>5.9M tokens on Aug 12, 2026</title></circle>
+<circle class="empty" cx="520" cy="173" r="4.8"><title>Aug 13, 2026</title></circle>
+<circle class="l1" cx="520" cy="187" r="4.8"><title>8.4M tokens on Aug 14, 2026</title></circle>
+<circle class="empty" cx="520" cy="201" r="4.8"><title>Aug 15, 2026</title></circle>
+<circle class="l1" cx="534" cy="117" r="4.8"><title>9.8M tokens on Aug 16, 2026</title></circle>
+<circle class="l2" cx="534" cy="131" r="4.8"><title>142.4M tokens on Aug 17, 2026</title></circle>
+<circle class="l2" cx="534" cy="145" r="4.8"><title>118.3M tokens on Aug 18, 2026</title></circle>
+<circle class="l1" cx="534" cy="159" r="4.8"><title>45.8M tokens on Aug 19, 2026</title></circle>
+<circle class="l1" cx="534" cy="173" r="4.8"><title>8.2M tokens on Aug 20, 2026</title></circle>
+<circle class="l1" cx="534" cy="187" r="4.8"><title>31.9M tokens on Aug 21, 2026</title></circle>
+<circle class="l1" cx="534" cy="201" r="4.8"><title>10.8M tokens on Aug 22, 2026</title></circle>
+<circle class="l1" cx="548" cy="117" r="4.8"><title>495.3K tokens on Aug 23, 2026</title></circle>
+<circle class="l1" cx="548" cy="131" r="4.8"><title>51.2M tokens on Aug 24, 2026</title></circle>
+<circle class="l2" cx="548" cy="145" r="4.8"><title>141M tokens on Aug 25, 2026</title></circle>
+<circle class="l2" cx="548" cy="159" r="4.8"><title>112.3M tokens on Aug 26, 2026</title></circle>
+<circle class="l2" cx="548" cy="173" r="4.8"><title>87.6M tokens on Aug 27, 2026</title></circle>
+<circle class="l2" cx="548" cy="187" r="4.8"><title>143.3M tokens on Aug 28, 2026</title></circle>
+<circle class="l1" cx="548" cy="201" r="4.8"><title>65.4M tokens on Aug 29, 2026</title></circle>
+<circle class="empty" cx="562" cy="117" r="4.8"><title>Aug 30, 2026</title></circle>
+<circle class="l2" cx="562" cy="131" r="4.8"><title>102.5M tokens on Aug 31, 2026</title></circle>
+<circle class="l2" cx="562" cy="145" r="4.8"><title>160.9M tokens on Sep 1, 2026</title></circle>
+<circle class="l3" cx="562" cy="159" r="4.8"><title>224.2M tokens on Sep 2, 2026</title></circle>
+<circle class="l2" cx="562" cy="173" r="4.8"><title>150.4M tokens on Sep 3, 2026</title></circle>
+<circle class="l1" cx="562" cy="187" r="4.8"><title>70.3M tokens on Sep 4, 2026</title></circle>
+<circle class="l1" cx="562" cy="201" r="4.8"><title>70.3M tokens on Sep 5, 2026</title></circle>
+<circle class="l1" cx="576" cy="117" r="4.8"><title>79.3M tokens on Sep 6, 2026</title></circle>
+<circle class="l1" cx="576" cy="131" r="4.8"><title>57.4M tokens on Sep 7, 2026</title></circle>
+<circle class="l1" cx="576" cy="145" r="4.8"><title>79.7M tokens on Sep 8, 2026</title></circle>
+<circle class="l1" cx="576" cy="159" r="4.8"><title>2.7M tokens on Sep 9, 2026</title></circle>
+<circle class="l1" cx="576" cy="173" r="4.8"><title>3.3M tokens on Sep 10, 2026</title></circle>
+<circle class="l1" cx="576" cy="187" r="4.8"><title>21.8M tokens on Sep 11, 2026</title></circle>
+<circle class="l1" cx="576" cy="201" r="4.8"><title>3.5M tokens on Sep 12, 2026</title></circle>
+<circle class="l1" cx="590" cy="117" r="4.8"><title>1.2M tokens on Sep 13, 2026</title></circle>
+<circle class="l1" cx="590" cy="131" r="4.8"><title>2.4M tokens on Sep 14, 2026</title></circle>
+<circle class="l1" cx="590" cy="145" r="4.8"><title>18.8M tokens on Sep 15, 2026</title></circle>
+<circle class="l1" cx="590" cy="159" r="4.8"><title>16.5M tokens on Sep 16, 2026</title></circle>
+<circle class="l1" cx="590" cy="173" r="4.8"><title>20.4M tokens on Sep 17, 2026</title></circle>
+<circle class="l1" cx="590" cy="187" r="4.8"><title>600.2K tokens on Sep 18, 2026</title></circle>
+<circle class="l1" cx="590" cy="201" r="4.8"><title>646.8K tokens on Sep 19, 2026</title></circle>
+<circle class="l1" cx="604" cy="117" r="4.8"><title>34.3M tokens on Sep 20, 2026</title></circle>
+<circle class="l1" cx="604" cy="131" r="4.8"><title>894.2K tokens on Sep 21, 2026</title></circle>
+<circle class="l1" cx="604" cy="145" r="4.8"><title>1.6M tokens on Sep 22, 2026</title></circle>
+<circle class="l1" cx="604" cy="159" r="4.8"><title>1.1M tokens on Sep 23, 2026</title></circle>
+<circle class="empty" cx="604" cy="173" r="4.8"><title>Sep 24, 2026</title></circle>
+<circle class="empty" cx="604" cy="187" r="4.8"><title>Sep 25, 2026</title></circle>
+<circle class="l2" cx="604" cy="201" r="4.8"><title>86.3M tokens on Sep 26, 2026</title></circle>
+<circle class="empty" cx="618" cy="117" r="4.8"><title>Sep 27, 2026</title></circle>
+<circle class="l2" cx="618" cy="131" r="4.8"><title>90.2M tokens on Sep 28, 2026</title></circle>
+<circle class="l2" cx="618" cy="145" r="4.8"><title>91.1M tokens on Sep 29, 2026</title></circle>
+<circle class="l1" cx="618" cy="159" r="4.8"><title>12.7M tokens on Sep 30, 2026</title></circle>
+<circle class="l1" cx="618" cy="173" r="4.8"><title>1.5M tokens on Oct 1, 2026</title></circle>
+<circle class="empty" cx="618" cy="187" r="4.8"><title>Oct 2, 2026</title></circle>
+<circle class="empty" cx="618" cy="201" r="4.8"><title>Oct 3, 2026</title></circle>
+<circle class="empty" cx="632" cy="117" r="4.8"><title>Oct 4, 2026</title></circle>
+<circle class="empty" cx="632" cy="131" r="4.8"><title>Oct 5, 2026</title></circle>
+<circle class="empty" cx="632" cy="145" r="4.8"><title>Oct 6, 2026</title></circle>
+<circle class="empty" cx="632" cy="159" r="4.8"><title>Oct 7, 2026</title></circle>
+<circle class="l1" cx="632" cy="173" r="4.8"><title>830.8K tokens on Oct 8, 2026</title></circle>
+<circle class="l1" cx="632" cy="187" r="4.8"><title>217.2K tokens on Oct 9, 2026</title></circle>
+<circle class="l1" cx="632" cy="201" r="4.8"><title>574.7K tokens on Oct 10, 2026</title></circle>
+<circle class="l1" cx="646" cy="117" r="4.8"><title>2.8M tokens on Oct 11, 2026</title></circle>
+<circle class="empty" cx="646" cy="131" r="4.8"><title>Oct 12, 2026</title></circle>
+<circle class="l1" cx="646" cy="145" r="4.8"><title>6.5M tokens on Oct 13, 2026</title></circle>
+<circle class="empty" cx="646" cy="159" r="4.8"><title>Oct 14, 2026</title></circle>
+<circle class="empty" cx="646" cy="173" r="4.8"><title>Oct 15, 2026</title></circle>
+<circle class="future" cx="646" cy="187" r="4.8"><title>2026-10-16 (future)</title></circle>
+<circle class="future" cx="646" cy="201" r="4.8"><title>2026-10-17 (future)</title></circle>
+<circle class="future" cx="660" cy="117" r="4.8"><title>2026-10-18 (future)</title></circle>
+<circle class="future" cx="660" cy="131" r="4.8"><title>2026-10-19 (future)</title></circle>
+<circle class="future" cx="660" cy="145" r="4.8"><title>2026-10-20 (future)</title></circle>
+<circle class="future" cx="660" cy="159" r="4.8"><title>2026-10-21 (future)</title></circle>
+<circle class="future" cx="660" cy="173" r="4.8"><title>2026-10-22 (future)</title></circle>
+<circle class="future" cx="660" cy="187" r="4.8"><title>2026-10-23 (future)</title></circle>
+<circle class="future" cx="660" cy="201" r="4.8"><title>2026-10-24 (future)</title></circle>
+<circle class="future" cx="674" cy="117" r="4.8"><title>2026-10-25 (future)</title></circle>
+<circle class="future" cx="674" cy="131" r="4.8"><title>2026-10-26 (future)</title></circle>
+<circle class="future" cx="674" cy="145" r="4.8"><title>2026-10-27 (future)</title></circle>
+<circle class="future" cx="674" cy="159" r="4.8"><title>2026-10-28 (future)</title></circle>
+<circle class="future" cx="674" cy="173" r="4.8"><title>2026-10-29 (future)</title></circle>
+<circle class="future" cx="674" cy="187" r="4.8"><title>2026-10-30 (future)</title></circle>
+<circle class="future" cx="674" cy="201" r="4.8"><title>2026-10-31 (future)</title></circle>
+<circle class="future" cx="688" cy="117" r="4.8"><title>2026-11-01 (future)</title></circle>
+<circle class="future" cx="688" cy="131" r="4.8"><title>2026-11-02 (future)</title></circle>
+<circle class="future" cx="688" cy="145" r="4.8"><title>2026-11-03 (future)</title></circle>
+<circle class="future" cx="688" cy="159" r="4.8"><title>2026-11-04 (future)</title></circle>
+<circle class="future" cx="688" cy="173" r="4.8"><title>2026-11-05 (future)</title></circle>
+<circle class="future" cx="688" cy="187" r="4.8"><title>2026-11-06 (future)</title></circle>
+<circle class="future" cx="688" cy="201" r="4.8"><title>2026-11-07 (future)</title></circle>
+<circle class="future" cx="702" cy="117" r="4.8"><title>2026-11-08 (future)</title></circle>
+<circle class="future" cx="702" cy="131" r="4.8"><title>2026-11-09 (future)</title></circle>
+<circle class="future" cx="702" cy="145" r="4.8"><title>2026-11-10 (future)</title></circle>
+<circle class="future" cx="702" cy="159" r="4.8"><title>2026-11-11 (future)</title></circle>
+<circle class="future" cx="702" cy="173" r="4.8"><title>2026-11-12 (future)</title></circle>
+<circle class="future" cx="702" cy="187" r="4.8"><title>2026-11-13 (future)</title></circle>
+<circle class="future" cx="702" cy="201" r="4.8"><title>2026-11-14 (future)</title></circle>
+<circle class="future" cx="716" cy="117" r="4.8"><title>2026-11-15 (future)</title></circle>
+<circle class="future" cx="716" cy="131" r="4.8"><title>2026-11-16 (future)</title></circle>
+<circle class="future" cx="716" cy="145" r="4.8"><title>2026-11-17 (future)</title></circle>
+<circle class="future" cx="716" cy="159" r="4.8"><title>2026-11-18 (future)</title></circle>
+<circle class="future" cx="716" cy="173" r="4.8"><title>2026-11-19 (future)</title></circle>
+<circle class="future" cx="716" cy="187" r="4.8"><title>2026-11-20 (future)</title></circle>
+<circle class="future" cx="716" cy="201" r="4.8"><title>2026-11-21 (future)</title></circle>
+<circle class="future" cx="730" cy="117" r="4.8"><title>2026-11-22 (future)</title></circle>
+<circle class="future" cx="730" cy="131" r="4.8"><title>2026-11-23 (future)</title></circle>
+<circle class="future" cx="730" cy="145" r="4.8"><title>2026-11-24 (future)</title></circle>
+<circle class="future" cx="730" cy="159" r="4.8"><title>2026-11-25 (future)</title></circle>
+<circle class="future" cx="730" cy="173" r="4.8"><title>2026-11-26 (future)</title></circle>
+<circle class="future" cx="730" cy="187" r="4.8"><title>2026-11-27 (future)</title></circle>
+<circle class="future" cx="730" cy="201" r="4.8"><title>2026-11-28 (future)</title></circle>
+<circle class="future" cx="744" cy="117" r="4.8"><title>2026-11-29 (future)</title></circle>
+<circle class="future" cx="744" cy="131" r="4.8"><title>2026-11-30 (future)</title></circle>
+<circle class="future" cx="744" cy="145" r="4.8"><title>2026-12-01 (future)</title></circle>
+<circle class="future" cx="744" cy="159" r="4.8"><title>2026-12-02 (future)</title></circle>
+<circle class="future" cx="744" cy="173" r="4.8"><title>2026-12-03 (future)</title></circle>
+<circle class="future" cx="744" cy="187" r="4.8"><title>2026-12-04 (future)</title></circle>
+<circle class="future" cx="744" cy="201" r="4.8"><title>2026-12-05 (future)</title></circle>
+<circle class="future" cx="758" cy="117" r="4.8"><title>2026-12-06 (future)</title></circle>
+<circle class="future" cx="758" cy="131" r="4.8"><title>2026-12-07 (future)</title></circle>
+<circle class="future" cx="758" cy="145" r="4.8"><title>2026-12-08 (future)</title></circle>
+<circle class="future" cx="758" cy="159" r="4.8"><title>2026-12-09 (future)</title></circle>
+<circle class="future" cx="758" cy="173" r="4.8"><title>2026-12-10 (future)</title></circle>
+<circle class="future" cx="758" cy="187" r="4.8"><title>2026-12-11 (future)</title></circle>
+<circle class="future" cx="758" cy="201" r="4.8"><title>2026-12-12 (future)</title></circle>
+<circle class="future" cx="772" cy="117" r="4.8"><title>2026-12-13 (future)</title></circle>
+<circle class="future" cx="772" cy="131" r="4.8"><title>2026-12-14 (future)</title></circle>
+<circle class="future" cx="772" cy="145" r="4.8"><title>2026-12-15 (future)</title></circle>
+<circle class="future" cx="772" cy="159" r="4.8"><title>2026-12-16 (future)</title></circle>
+<circle class="future" cx="772" cy="173" r="4.8"><title>2026-12-17 (future)</title></circle>
+<circle class="future" cx="772" cy="187" r="4.8"><title>2026-12-18 (future)</title></circle>
+<circle class="future" cx="772" cy="201" r="4.8"><title>2026-12-19 (future)</title></circle>
+<circle class="future" cx="786" cy="117" r="4.8"><title>2026-12-20 (future)</title></circle>
+<circle class="future" cx="786" cy="131" r="4.8"><title>2026-12-21 (future)</title></circle>
+<circle class="future" cx="786" cy="145" r="4.8"><title>2026-12-22 (future)</title></circle>
+<circle class="future" cx="786" cy="159" r="4.8"><title>2026-12-23 (future)</title></circle>
+<circle class="future" cx="786" cy="173" r="4.8"><title>2026-12-24 (future)</title></circle>
+<circle class="future" cx="786" cy="187" r="4.8"><title>2026-12-25 (future)</title></circle>
+<circle class="future" cx="786" cy="201" r="4.8"><title>2026-12-26 (future)</title></circle>
+<circle class="future" cx="800" cy="117" r="4.8"><title>2026-12-27 (future)</title></circle>
+<circle class="future" cx="800" cy="131" r="4.8"><title>2026-12-28 (future)</title></circle>
+<circle class="future" cx="800" cy="145" r="4.8"><title>2026-12-29 (future)</title></circle>
+<circle class="future" cx="800" cy="159" r="4.8"><title>2026-12-30 (future)</title></circle>
+<circle class="future" cx="800" cy="173" r="4.8"><title>2026-12-31 (future)</title></circle>
+<text class="muted" x="24" y="238" font-size="11">Updated 2026-10-15 · Approximate tokens from public Cursor activity</text>
+<text class="muted" x="688" y="238" font-size="10">Less</text>
+<circle class="empty" cx="724" cy="234" r="4.8"/>
+<circle class="l1" cx="738" cy="234" r="4.8"/>
+<circle class="l2" cx="752" cy="234" r="4.8"/>
+<circle class="l3" cx="766" cy="234" r="4.8"/>
+<circle class="l4" cx="780" cy="234" r="4.8"/>
+<text class="muted" x="796" y="238" font-size="10">More</text>
+</svg>

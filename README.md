@@ -2,6 +2,12 @@
 
 独立开发 / 产品 / 设计。目前在做几件有意思的事。
 
+## Cursor 使用足迹
+
+[![Cursor 年度使用热力图](assets/cursor-heatmap.svg)](https://cursor.com/@insterest)
+
+每天更新 · 点击查看 [Cursor 个人主页](https://cursor.com/@insterest)
+
 ## 🛠️ 在做
 
 - **📱 [知与行](https://zhiyuxing.yuchengji.com)** — iOS App，陪你看见自己,也陪你走近愿望。已上架，研发博客记录在 [yuchengji.com/blog](https://yuchengji.com/blog/)。
