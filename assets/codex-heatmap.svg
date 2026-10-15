@@ -389,12 +389,11 @@
 <rect class="uncovered" x="795" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-29: not covered</title></rect>
 <rect class="uncovered" x="795" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-30: not covered</title></rect>
 <rect class="uncovered" x="795" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-31: not covered</title></rect>
-<text class="muted" x="24" y="224" font-size="11">Official account activity · Latest reported date 2026-10-14 · Dates as returned</text>
-<text class="muted" x="24" y="243" font-size="10">Blank: no reported activity · Dashed: not covered · Outlined: reported zero</text>
-<text class="muted" x="688" y="243" font-size="10">Less</text>
-<rect class="active" x="724" y="234" width="10" height="10" rx="2" fill-opacity="0.3"/>
-<rect class="active" x="738" y="234" width="10" height="10" rx="2" fill-opacity="0.5"/>
-<rect class="active" x="752" y="234" width="10" height="10" rx="2" fill-opacity="0.75"/>
-<rect class="active" x="766" y="234" width="10" height="10" rx="2" fill-opacity="1"/>
-<text class="muted" x="786" y="243" font-size="10">More</text>
+<text class="muted" x="24" y="238" font-size="12">Data through 2026-10-14</text>
+<text class="muted" x="688" y="238" font-size="11">Less</text>
+<rect class="active" x="724" y="229" width="10" height="10" rx="2" fill-opacity="0.3"/>
+<rect class="active" x="738" y="229" width="10" height="10" rx="2" fill-opacity="0.5"/>
+<rect class="active" x="752" y="229" width="10" height="10" rx="2" fill-opacity="0.75"/>
+<rect class="active" x="766" y="229" width="10" height="10" rx="2" fill-opacity="1"/>
+<text class="muted" x="786" y="238" font-size="11">More</text>
 </svg>

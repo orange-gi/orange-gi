@@ -158,7 +158,7 @@ def main():
         title="Codex token activity", year=args.year,
         days={row["date"]: row["tokens"] for row in data["days"]}, coverage_end=last,
         subtitle=f"{compact(summary['yearReportedTokens'])} reported tokens · {summary['yearActiveDays']} active days",
-        footer=f"Official account activity · Latest reported date {last} · Dates as returned",
+        footer=f"Data through {last}",
     )
     # Validate and render everything before staging replacements. No raw response is saved.
     contents = {"codex-activity.json": json.dumps(data, ensure_ascii=False, indent=2) + "\n",

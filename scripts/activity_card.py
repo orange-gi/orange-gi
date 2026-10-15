@@ -60,10 +60,9 @@ def render_activity_card(*, title, year, days, coverage_end, subtitle, footer,
             opacity = (0.3, 0.5, 0.75, 1)[min(3, int(value / peak * 4))]
         delta = (day - grid_start).days
         parts.append(f'<rect class="{css}" x="{67 + delta // 7 * 14}" y="{112 + delta % 7 * 14}" width="10" height="10" rx="2" fill-opacity="{opacity}"><title>{esc(label)}</title></rect>')
-    parts.append(f'<text class="muted" x="24" y="224" font-size="11">{esc(footer)}</text>')
-    parts.append('<text class="muted" x="24" y="243" font-size="10">Blank: no reported activity · Dashed: not covered · Outlined: reported zero</text>')
-    parts.append('<text class="muted" x="688" y="243" font-size="10">Less</text>')
+    parts.append(f'<text class="muted" x="24" y="238" font-size="12">{esc(footer)}</text>')
+    parts.append('<text class="muted" x="688" y="238" font-size="11">Less</text>')
     for i, opacity in enumerate((0.3, 0.5, 0.75, 1)):
-        parts.append(f'<rect class="active" x="{724 + i * 14}" y="234" width="10" height="10" rx="2" fill-opacity="{opacity}"/>')
-    parts.extend(['<text class="muted" x="786" y="243" font-size="10">More</text>', '</svg>'])
+        parts.append(f'<rect class="active" x="{724 + i * 14}" y="229" width="10" height="10" rx="2" fill-opacity="{opacity}"/>')
+    parts.extend(['<text class="muted" x="786" y="238" font-size="11">More</text>', '</svg>'])
     return "\n".join(parts) + "\n"
