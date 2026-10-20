@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-labelledby="title desc">
 <title id="title">Codex token activity · 2026</title>
-<desc id="desc">27.95B reported tokens · 72 active days. Latest reported date: 2026-10-14. Missing dates mean no reported activity; dates after that are not covered.</desc>
+<desc id="desc">36.9B reported tokens · 77 active days. Latest reported date: 2026-10-19. Missing dates mean no reported activity; dates after that are not covered.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#1f2328}.muted{fill:#656d76}.frame{fill:#fff;stroke:#d1d9e0}.missing{fill:#ebedf0}.uncovered{fill:#fff;stroke:#d1d9e0;stroke-dasharray:2 2}.zero{fill:#ebedf0;stroke:#8c959f}
 .active{fill:#388bfd}
 @media(prefers-color-scheme:dark){text{fill:#e6edf3}.muted{fill:#9198a1}.frame{fill:#0d1117;stroke:#30363d}.missing{fill:#21262d}.uncovered{fill:#0d1117;stroke:#30363d}.zero{fill:#21262d;stroke:#9198a1}
@@ -8,7 +8,7 @@
 <rect class="frame" x="0.5" y="0.5" width="859" height="259" rx="12"/>
 <text x="24" y="38" font-size="20" font-weight="600">Codex token activity</text>
 <text class="muted" x="832" y="37" text-anchor="end" font-size="13">2026</text>
-<text x="24" y="67" font-size="14">27.95B reported tokens · 72 active days</text>
+<text x="24" y="67" font-size="14">36.9B reported tokens · 77 active days</text>
 <text class="muted" x="67" y="100" font-size="11">Jan</text>
 <text class="muted" x="137" y="100" font-size="11">Feb</text>
 <text class="muted" x="193" y="100" font-size="11">Mar</text>
@@ -310,12 +310,12 @@
 <rect class="active" x="641" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-11: 2,422,266,810 tokens</title></rect>
 <rect class="active" x="641" y="126" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-12: 1,332,574,309 tokens</title></rect>
 <rect class="active" x="641" y="140" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-13: 1,084,820,026 tokens</title></rect>
-<rect class="active" x="641" y="154" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-14: 933,922,112 tokens</title></rect>
-<rect class="uncovered" x="641" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-15: not covered</title></rect>
-<rect class="uncovered" x="641" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-16: not covered</title></rect>
-<rect class="uncovered" x="641" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-17: not covered</title></rect>
-<rect class="uncovered" x="655" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-18: not covered</title></rect>
-<rect class="uncovered" x="655" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-19: not covered</title></rect>
+<rect class="active" x="641" y="154" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-14: 1,399,785,850 tokens</title></rect>
+<rect class="active" x="641" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-15: 2,598,179,241 tokens</title></rect>
+<rect class="active" x="641" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-16: 2,229,415,535 tokens</title></rect>
+<rect class="active" x="641" y="196" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-17: 730,267,520 tokens</title></rect>
+<rect class="active" x="655" y="112" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-18: 1,885,135,462 tokens</title></rect>
+<rect class="active" x="655" y="126" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-19: 1,039,533,160 tokens</title></rect>
 <rect class="uncovered" x="655" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-20: not covered</title></rect>
 <rect class="uncovered" x="655" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-21: not covered</title></rect>
 <rect class="uncovered" x="655" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-22: not covered</title></rect>
@@ -389,7 +389,7 @@
 <rect class="uncovered" x="795" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-29: not covered</title></rect>
 <rect class="uncovered" x="795" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-30: not covered</title></rect>
 <rect class="uncovered" x="795" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-31: not covered</title></rect>
-<text class="muted" x="24" y="238" font-size="12">Data through 2026-10-14</text>
+<text class="muted" x="24" y="238" font-size="12">Data through 2026-10-19</text>
 <text class="muted" x="688" y="238" font-size="11">Less</text>
 <rect class="active" x="724" y="229" width="10" height="10" rx="2" fill-opacity="0.3"/>
 <rect class="active" x="738" y="229" width="10" height="10" rx="2" fill-opacity="0.5"/>
