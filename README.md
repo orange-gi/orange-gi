@@ -5,7 +5,7 @@
 
 ## 🛠️ 在做
 
-- **📱 [知与行](https://zhiyuxing.life)** — iOS App/微信小程序，陪你觉察,陪你行动。研发博客记录在 [yuchengji.com/blog](https://yuchengji.com/blog/)。
+- **📱 [知与行](https://zhiyuxing.life)** — iOS App/微信小程序，陪你觉察,也陪你行动的AI伙伴。
 - **🧩 [yuchen-skills](https://github.com/orange-gi/yuchen-skills)** — 公开的 个人 Agent Skills 合集（SKILL.md + schema）。
 
 
