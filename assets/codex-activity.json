@@ -10,19 +10,19 @@
   "year": 2026,
   "coverage": {
     "firstReportedDate": "2026-05-14",
-    "lastReportedDate": "2026-10-19"
+    "lastReportedDate": "2026-10-23"
   },
   "summary": {
     "official": {
-      "lifetimeTokens": 36902304076,
-      "peakDailyTokens": 2798684245,
+      "lifetimeTokens": 45478625413,
+      "peakDailyTokens": 3335960545,
       "longestRunningTurnSec": 58933,
-      "currentStreakDays": 30,
-      "longestStreakDays": 30
+      "currentStreakDays": 34,
+      "longestStreakDays": 34
     },
-    "yearReportedTokens": 36902304076,
-    "yearActiveDays": 77,
-    "allReturnedBucketsTokens": 36902304076,
+    "yearReportedTokens": 45478625413,
+    "yearActiveDays": 81,
+    "allReturnedBucketsTokens": 45478625413,
     "returnedBucketsMatchLifetime": true,
     "comparisonNote": "Lifetime and returned daily buckets may have different coverage; a mismatch does not invalidate returned dates."
   },
@@ -333,7 +333,23 @@
     },
     {
       "date": "2026-10-19",
-      "tokens": 1039533160
+      "tokens": 1272697093
+    },
+    {
+      "date": "2026-10-20",
+      "tokens": 1005777063
+    },
+    {
+      "date": "2026-10-21",
+      "tokens": 3335960545
+    },
+    {
+      "date": "2026-10-22",
+      "tokens": 1515283244
+    },
+    {
+      "date": "2026-10-23",
+      "tokens": 2486136552
     }
   ]
 }
