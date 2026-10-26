@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-labelledby="title desc">
 <title id="title">Codex token activity · 2026</title>
-<desc id="desc">45.48B reported tokens · 81 active days. Latest reported date: 2026-10-23. Missing dates mean no reported activity; dates after that are not covered.</desc>
+<desc id="desc">50.31B reported tokens · 83 active days. Latest reported date: 2026-10-25. Missing dates mean no reported activity; dates after that are not covered.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#1f2328}.muted{fill:#656d76}.frame{fill:#fff;stroke:#d1d9e0}.missing{fill:#ebedf0}.uncovered{fill:#fff;stroke:#d1d9e0;stroke-dasharray:2 2}.zero{fill:#ebedf0;stroke:#8c959f}
 .active{fill:#388bfd}
 @media(prefers-color-scheme:dark){text{fill:#e6edf3}.muted{fill:#9198a1}.frame{fill:#0d1117;stroke:#30363d}.missing{fill:#21262d}.uncovered{fill:#0d1117;stroke:#30363d}.zero{fill:#21262d;stroke:#9198a1}
@@ -8,7 +8,7 @@
 <rect class="frame" x="0.5" y="0.5" width="859" height="259" rx="12"/>
 <text x="24" y="38" font-size="20" font-weight="600">Codex token activity</text>
 <text class="muted" x="832" y="37" text-anchor="end" font-size="13">2026</text>
-<text x="24" y="67" font-size="14">45.48B reported tokens · 81 active days</text>
+<text x="24" y="67" font-size="14">50.31B reported tokens · 83 active days</text>
 <text class="muted" x="67" y="100" font-size="11">Jan</text>
 <text class="muted" x="137" y="100" font-size="11">Feb</text>
 <text class="muted" x="193" y="100" font-size="11">Mar</text>
@@ -319,9 +319,9 @@
 <rect class="active" x="655" y="140" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-20: 1,005,777,063 tokens</title></rect>
 <rect class="active" x="655" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-21: 3,335,960,545 tokens</title></rect>
 <rect class="active" x="655" y="168" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-22: 1,515,283,244 tokens</title></rect>
-<rect class="active" x="655" y="182" width="10" height="10" rx="2" fill-opacity="0.75"><title>2026-10-23: 2,486,136,552 tokens</title></rect>
-<rect class="uncovered" x="655" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-24: not covered</title></rect>
-<rect class="uncovered" x="669" y="112" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-25: not covered</title></rect>
+<rect class="active" x="655" y="182" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-23: 2,873,551,544 tokens</title></rect>
+<rect class="active" x="655" y="196" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-24: 3,134,782,929 tokens</title></rect>
+<rect class="active" x="669" y="112" width="10" height="10" rx="2" fill-opacity="0.5"><title>2026-10-25: 1,308,849,576 tokens</title></rect>
 <rect class="uncovered" x="669" y="126" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-26: not covered</title></rect>
 <rect class="uncovered" x="669" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-27: not covered</title></rect>
 <rect class="uncovered" x="669" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-10-28: not covered</title></rect>
@@ -389,7 +389,7 @@
 <rect class="uncovered" x="795" y="140" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-29: not covered</title></rect>
 <rect class="uncovered" x="795" y="154" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-30: not covered</title></rect>
 <rect class="uncovered" x="795" y="168" width="10" height="10" rx="2" fill-opacity="1"><title>2026-12-31: not covered</title></rect>
-<text class="muted" x="24" y="238" font-size="12">Data through 2026-10-23</text>
+<text class="muted" x="24" y="238" font-size="12">Data through 2026-10-25</text>
 <text class="muted" x="688" y="238" font-size="11">Less</text>
 <rect class="active" x="724" y="229" width="10" height="10" rx="2" fill-opacity="0.3"/>
 <rect class="active" x="738" y="229" width="10" height="10" rx="2" fill-opacity="0.5"/>
